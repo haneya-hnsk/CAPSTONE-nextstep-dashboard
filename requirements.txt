@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+matplotlib 
+seaborn 
+wordcloud 
+plotly 
+numpy
+folium
+streamlit-folium
+scikit-learn==1.6.1
