@@ -1,3 +1,1877 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adebf2e790a528a5ff30a193475113f433ceb6f2b72f6db8dd949b6d954c6568
-size 79005
+location,count,latitude,longitude
+Singapore,5319,1.3521,103.8198
+Jakarta,3283,-6.2088,106.8456
+Kuala Lumpur,2630,3.139,101.6869
+Central Region,2573,1.3048,103.8318
+"South Jakarta, Jakarta",2238,-6.2608,106.7988
+"Tangerang, Banten",1729,-6.1781,106.63
+"West Jakarta, Jakarta",1648,-6.1674,106.7737
+"Surabaya, East Java",1643,-7.2575,112.7521
+"North Jakarta, Jakarta",1522,-6.1214,106.8591
+"Central Jakarta, Jakarta",1201,-6.1865,106.8467
+"Bandung, West Java",1185,-6.9175,107.6191
+"Semarang, Central Java",1037,-6.9932,110.4203
+Bali,971,-8.3405,115.092
+West Region,917,1.3508,103.6897
+East Region,848,1.3498,103.9501
+"Petaling Jaya, Selangor",804,3.1073,101.6067
+"Kuala Lumpur City Centre, Kuala Lumpur",780,3.1571,101.7112
+"Bekasi, West Java",744,-6.2349,106.9896
+"Johor Bahru, Johor",735,1.4927,103.7414
+"Denpasar, Bali",707,-8.6529,115.2192
+"Badung, Bali",706,-8.6053,115.1958
+"Makassar, South Sulawesi",556,-5.1477,119.4327
+"Shah Alam, Selangor",549,3.0733,101.5185
+Penang,491,5.4141,100.3288
+North Region,486,1.4204,103.7932
+"South Tangerang, Banten",476,-6.2886,106.7179
+"Yogyakarta, Yogyakarta Special Region",446,-7.7956,110.3695
+Selangor,394,3.075,101.525
+"Medan, North Sumatra",387,3.5952,98.6722
+"Kuching, Sarawak",355,1.5581,110.3526
+"East Jakarta, Jakarta",344,-6.225,106.9096
+"Kebayoran Lama, Jakarta",335,-6.2388,106.7793
+"Tuas, West Region",334,1.3285,103.6412
+"Kota Kinabalu, Sabah",331,5.9804,116.0735
+"Bogor, West Java",326,-6.595,106.7887
+"Changi, East Region",321,1.3612,103.9808
+West Java,312,-6.9,107.6
+"Batam, Riau Islands",305,1.1305,104.0455
+"Subang Jaya, Selangor",305,3.0505,101.5856
+"Kemayoran, Jakarta",297,-6.1562,106.8546
+"Woodlands, North Region",293,1.4373,103.7855
+"Bayan Lepas, Penang",286,5.2967,100.2673
+"Kampong Ubi, Central Region",284,1.3274,103.8961
+"Puchong, Selangor",281,3.0268,101.6136
+"South Cikarang, West Java",273,-6.324,107.163
+"Jurong East, West Region",260,1.3445,103.7329
+Indonesia,259,-6.2088,106.8456
+"Klang, Selangor",258,3.0449,101.4445
+"Gresik, East Java",254,-7.1539,112.6538
+"Malang, East Java",251,-7.9775,112.6331
+Jakarta Raya,251,-6.2088,106.8456
+"Karawang, West Java",250,-6.3051,107.3048
+"Tangerang District, Banten",230,-6.1996,106.4897
+East Kalimantan,227,0.5387,116.4193
+"Sleman, Yogyakarta Special Region",226,-7.7162,110.3583
+"Ang Mo Kio, North-East Region",224,1.3755,103.8391
+"Raffles Place, Central Region",223,1.2847,103.8513
+"Ipoh, Perak",222,4.5975,101.0901
+"Depok, West Java",207,-6.3933,106.8187
+"Balikpapan, East Kalimantan",201,-1.2692,116.8272
+Melaka,198,2.1896,102.2501
+"Sidoarjo, East Java",198,-7.4478,112.7183
+"Orchard, Central Region",196,1.3052,103.8318
+"Banjarmasin, South Kalimantan",193,-3.3144,114.5925
+"South Kuta, Bali",189,-8.7951,115.1798
+"Surakarta, Central Java",189,-7.5667,110.8167
+"Jakarta Selatan, Jakarta Raya",183,-6.2608,106.7988
+"Singapore River, Central Region",178,1.2878,103.8489
+"Senai, Johor",172,1.5981,103.6415
+"Palembang, South Sumatra",166,-2.9761,104.7754
+Johor,164,1.4927,103.7414
+"Perai, Penang",155,5.3808,100.3853
+"Jakarta Utara, Jakarta Raya",154,-6.1214,106.8591
+"South Denpasar, Bali",152,-8.6877,115.2335
+"West Bandung, West Java",152,-6.8513,107.5133
+"Seminyak, Bali",152,-8.6912,115.1614
+"Tangerang Regency, Banten",151,-6.1996,106.4897
+Yogyakarta Special Region,150,-7.8754,110.3465
+North Sumatra,149,3.5952,98.6722
+"Cirebon, West Java",147,-6.7372,108.5505
+"Cikarang Pusat, West Java",147,-6.3182,107.1697
+"Petaling, Selangor",146,3.0904,101.6186
+"Tampines, East Region",142,1.3548,103.9444
+Central Kalimantan,142,-2.4,113.5
+"Batu Kawan, Penang",142,5.2738,100.4364
+"Cheras, Kuala Lumpur",140,3.1083,101.726
+"Jakarta Barat, Jakarta Raya",139,-6.2019,106.7504
+"Jember, East Java",138,-8.1745,113.695
+"Pasir Panjang, Central Region",138,1.2749,103.7942
+"Padang, West Sumatra",137,-0.9471,100.4172
+"Kota Damansara, Selangor",135,3.1556,101.5811
+"Kendari, Southeast Sulawesi",134,-3.9778,122.5152
+"Seremban, Negeri Sembilan",132,2.7297,101.9381
+"Boon Lay, West Region",131,1.3413,103.7065
+"Downtown Core, Central Region",131,1.2804,103.8515
+"Bukit Batok, West Region",129,1.3494,103.7508
+"Tai Seng, North-East Region",124,1.3371,103.8923
+East Java,122,-7.5361,112.2384
+Bangka Belitung,122,-2.1333,106.1333
+"Bangsar South, Kuala Lumpur",119,3.1103,101.6651
+"Cyberjaya, Selangor",117,2.9208,101.6517
+"Banjarbaru, South Kalimantan",117,-3.4139,114.8353
+Central Java,116,-7.15,110.1403
+"One North, Central Region",111,1.2978,103.789
+"Pekanbaru, Riau",111,0.5071,101.4478
+"Simpang Ampat, Penang",111,5.2823,100.4749
+"Jembrana, Bali",107,-8.3159,114.5909
+"Kalideres, Jakarta",107,-6.1498,106.7164
+"East Bekasi, West Java",107,-6.2502,107.0263
+"Bandar Sunway, Selangor",107,3.0678,101.6067
+"Paya Lebar, East Region",107,1.3502,103.8933
+"Jakarta Pusat, Jakarta Raya",105,-6.1865,106.8467
+"Surabaya, Jawa Timur",104,-7.2575,112.7521
+"Seri Kembangan, Selangor",104,3.0081,101.7044
+"Sukaraja, West Java",103,-6.5461,106.7887
+Malaysia,103,3.139,101.6869
+"Kallang, Central Region",102,1.311,103.8689
+"Tanjung Bintang, Lampung",102,-5.4281,105.4292
+"Kendawangan, West Kalimantan",101,-2.6023,110.361
+"Mauk, Banten",101,-6.0472,106.5267
+"Serpong, Banten",101,-6.3149,106.6714
+"Paya Lebar Air Base, East Region",101,1.3502,103.8933
+"Downtown Tanjong Pagar, Central Region",101,1.2762,103.8437
+"Miri, Sarawak",100,4.3995,113.9914
+"Queenstown, Central Region",100,1.2956,103.7984
+"Pasir Gudang, Johor",99,1.4742,103.9074
+"Karawaci, Banten",99,-6.1874,106.6119
+"George Town, Penang",98,5.4141,100.3288
+"Bukit Jalil, Kuala Lumpur",98,3.0609,101.6754
+"Kulim, Kedah",96,5.3654,100.5554
+"Bukit Timah, Central Region",96,1.3455,103.7782
+"West Batu Raja, South Sumatra",95,-4.1448,104.1746
+"Nilai, Negeri Sembilan",94,2.8163,101.7617
+North-East Region,93,1.3868,103.8839
+"Bintulu, Sarawak",92,3.171,113.0417
+Lampung,91,-5.45,105.2667
+"Bukit Mertajam, Penang",90,5.3654,100.4605
+"Novena, Central Region",90,1.3205,103.8433
+"Iskandar Puteri, Johor",90,1.4263,103.6426
+Banten,89,-6.12,106.1503
+"Sukoharjo, Central Java",89,-7.6804,110.8314
+"Boon Keng, Central Region",89,1.3184,103.8631
+"Ubud, Bali",88,-8.5098,115.2654
+"Penang Island, Penang",87,5.4141,100.3288
+"Sukabumi, West Java",86,-6.9218,106.9285
+"Jurong West, West Region",85,1.3455,103.7176
+"Samarinda, East Kalimantan",84,-0.5022,117.1536
+"Cilegon, Banten",83,-6.0023,106.0112
+"KL Eco City, Kuala Lumpur",82,3.1103,101.6746
+"Outram, Central Region",81,1.2826,103.8399
+"Clementi, West Region",81,1.3154,103.7649
+"Pioneer, West Region",80,1.3417,103.6952
+"Cikupa, Banten",79,-6.2242,106.5124
+"Kulai, Johor",76,1.6471,103.602
+"Marina South, Central Region",76,1.2709,103.8633
+"Bukit Merah, Central Region",75,1.281,103.8263
+"Serangoon, North-East Region",74,1.3554,103.8671
+"Manado, North Sulawesi",73,1.4748,124.8421
+Riau,73,0.5071,101.4478
+"Sungai Petani, Kedah",73,5.6436,100.4891
+"Port Klang, Selangor",73,2.9992,101.3925
+"Pekanbaru City, Riau",72,0.5071,101.4478
+"Macpherson, Central Region",71,1.3275,103.8818
+"Tiong Bahru, Central Region",71,1.2833,103.8267
+"Kuantan, Pahang",69,3.8117,103.3211
+"Mid Valley City, Kuala Lumpur",69,3.1179,101.678
+"Bandar Lampung, Lampung",69,-5.4243,105.2516
+"Mataram City, West Nusa Tenggara",69,-8.5833,116.1167
+"Batam Kota, Riau Islands",69,1.1305,104.0455
+"Bogor Regency, West Java",68,-6.595,106.7887
+"Cibinong, West Java",67,-6.4836,106.8565
+"Butterworth, Penang",67,5.3991,100.3639
+"Rawang, Selangor",67,3.3206,101.576
+"Kelapa Gading, Jakarta",66,-6.1516,106.9001
+"Setia Alam, Selangor",64,3.1057,101.4604
+"Kuta, Bali",64,-8.7239,115.1688
+"Kulim Hi-Tech Park, Kedah",63,5.3654,100.5554
+"Mont Kiara, Kuala Lumpur",63,3.1685,101.6517
+"Ara Damansara, Selangor",62,3.1216,101.5713
+"Purworejo, Central Java",61,-7.7107,110.0116
+"Kuala Lumpur Sentral, Kuala Lumpur",61,3.1343,101.6862
+"Grogol Petamburan, Jakarta",61,-6.1657,106.7866
+"Kranji, North Region",61,1.4344,103.7583
+"Yishun, North Region",61,1.4311,103.836
+"Balakong, Selangor",60,3.0376,101.7587
+"Serang, Banten",60,-6.1201,106.1503
+"Kaki Bukit, East Region",60,1.3413,103.9028
+"North Cikarang, West Java",60,-6.2613,107.1552
+"Bugis, Central Region",59,1.2994,103.856
+"Bantul, Yogyakarta Special Region",59,-7.8831,110.3331
+"Cengkareng, Jakarta",59,-6.1498,106.7164
+"Bedok, East Region",58,1.3236,103.9327
+"Pasuruan, East Java",58,-7.6449,112.9068
+"Kota Bharu, Kelantan",58,6.1236,102.2431
+"Kajang, Selangor",58,2.994,101.789
+"Bishan, Central Region",57,1.3525,103.8503
+"Kepong, Kuala Lumpur",57,3.2017,101.6377
+Putrajaya,57,2.9264,101.6964
+"Geylang, Central Region",56,1.3205,103.888
+"Gelang Patah, Johor",56,1.4431,103.59
+"Semenyih, Selangor",56,2.9496,101.8428
+"Joo Koon, West Region",56,1.3247,103.6789
+"Pontianak, West Kalimantan",54,-0.0227,109.3386
+"Braddell, Central Region",54,1.3395,103.8478
+"Sentosa, Central Region",54,1.2494,103.8303
+"Cianjur Regency, West Java",54,-6.8124,107.1507
+"Weest Karawang, West Java",53,-6.3051,107.3048
+"Central Weda, North Maluku",53,0.3252,127.981
+Sarawak,53,2.5,113.0
+"Cinere, West Java",53,-6.3358,106.7886
+"City Hall, Central Region",53,1.2927,103.8536
+"East Sumba, East Nusa Tenggara",52,-10.1,120.3
+"Bandar Malaysia, Kuala Lumpur",52,3.1202,101.694
+"Sungai Buloh, Selangor",52,3.196,101.5706
+"Kent Ridge, Central Region",52,1.2948,103.7836
+"Kerinci, Jambi",51,-2.0167,101.3667
+"Chinatown, Central Region",51,1.283,103.8442
+"Changi Airport, East Region",51,1.3644,103.9915
+"Taman Sari, Jakarta",51,-6.1462,106.8192
+"Karanganyar, Central Java",51,-7.6231,110.9685
+"Tegal, Central Java",51,-6.8666,109.1398
+"Johor Bahru District, Johor",50,1.4927,103.7414
+"Kemang, West Java",50,-6.2608,106.7897
+"Bekasi Regency, West Java",50,-6.2349,106.9896
+"Eunos, Central Region",49,1.3185,103.9041
+"West Tanjung Jabung, Jambi",49,-0.98,103.427
+"Alor Setar, Kedah",49,6.1248,100.3675
+"Bukit Minyak, Penang",48,5.3035,100.4373
+"Bandar Baru Bangi, Selangor",48,2.9631,101.7525
+"Kendal, Central Java",48,-6.9237,110.2037
+"Glenmarie, Selangor",48,3.1039,101.5654
+"Kelana Jaya, Selangor",48,3.1016,101.6033
+"Sepang, Selangor",48,2.6939,101.7494
+"Pulo Gadung, Jakarta",47,-6.1845,106.9021
+"Bukit Damansara, Kuala Lumpur",47,3.1454,101.6539
+"Bangsar, Kuala Lumpur",47,3.1287,101.6729
+"Grobogan, Central Java",46,-7.0417,110.8833
+"Khatib, North Region",45,1.4196,103.8335
+"Anson, Central Region",45,1.3006,103.8393
+"Lavender, Central Region",45,1.31,103.8614
+"Skudai, Johor",44,1.5428,103.6585
+"Sri Petaling, Kuala Lumpur",44,3.0718,101.6881
+"Magelang, Central Java",44,-7.4797,110.2177
+"Toa Payoh, Central Region",43,1.335,103.8509
+"Ulu Tiram, Johor",43,1.6011,103.8258
+"Tanglin, Central Region",42,1.3068,103.8229
+"Ampang, Selangor",42,3.1562,101.761
+"Sibu, Sarawak",42,2.29,111.83
+"West Denpasar, Bali",42,-8.6416,115.1871
+"Tabanan, Bali",41,-8.5405,115.125
+"Sembawang, North Region",41,1.4575,103.8178
+"Clarke Quay, Central Region",41,1.29,103.8465
+"Banting, Selangor",41,2.8171,101.5042
+"Bandung Regency, West Java",40,-6.9175,107.6191
+"Batam, Kepulauan Riau",40,1.1305,104.0455
+"Kosambi, Banten",40,-6.0826,106.6844
+"Subang, West Java",40,-6.5711,107.7629
+"Bandar Puteri Puchong, Selangor",39,2.9919,101.6198
+"Cikande, Banten",39,-6.1903,106.344
+"Bandung, Jawa Barat",39,-6.9175,107.6191
+"Kediri, East Java",38,-7.8082,112.0117
+"Bekasi, Jawa Barat",38,-6.2349,106.9896
+"Batu Pahat, Johor",38,1.8458,102.9436
+"Medan Kota, North Sumatra",38,3.5952,98.6722
+"Bukit Bintang, Kuala Lumpur",38,3.1478,101.7132
+"Jakarta Timur, Jakarta Raya",38,-6.225,106.9096
+"Klaten, Central Java",38,-7.7028,110.6021
+"Aljunied, Central Region",37,1.3168,103.8822
+"Gul Circle, West Region",37,1.3088,103.6603
+"Blubur Limbangan, West Java",37,-6.9416,107.9833
+"Purwakarta, West Java",36,-6.5569,107.4416
+"Cakung, Jakarta",36,-6.1845,106.9456
+"Medan, Sumatera Utara",36,3.5952,98.6722
+"Bati-Bati, South Kalimantan",36,-3.55,114.8833
+"Bukit Raja, Selangor",36,3.0971,101.4405
+Sabah,36,5.5,117.0
+"Muar, Johor",35,2.0407,102.5622
+"Taman Tun Dr Ismail, Kuala Lumpur",35,3.1461,101.6347
+South Sumatra,35,-3.3191,103.5774
+"West Cikarang, West Java",34,-6.3182,107.1201
+"Madiun, East Java",34,-7.6292,111.5266
+"Katong, Central Region",34,1.3032,103.901
+"Redhill, Central Region",34,1.286,103.8159
+"Tasikmalaya, West Java",34,-7.3273,108.2207
+"Bendemeer, Central Region",34,1.3131,103.8688
+"Damansara, Selangor",34,3.1474,101.6151
+"North Kuta, Bali",34,-8.6437,115.1582
+"Penjaringan, Jakarta",33,-6.1214,106.7866
+"Pulau Indah, Selangor",33,2.9423,101.3274
+"Cipondoh, Banten",33,-6.1806,106.6844
+"Mojokerto, East Java",33,-7.47,112.4356
+"Setapak, Kuala Lumpur",32,3.1977,101.7144
+"Teluk Panglima Garang, Selangor",32,2.917,101.4749
+Perak,32,4.75,101.0
+"Hougang, North-East Region",32,1.3737,103.8918
+"Kapar, Selangor",32,3.0588,101.3816
+"Gianyar, Bali",32,-8.5468,115.3224
+"Setiabudi, Jakarta",31,-6.2097,106.8238
+"Batu Caves, Selangor",31,3.2365,101.6815
+"Cibitung, West Java",31,-6.2396,107.0982
+"Loyang, East Region",31,1.3681,103.9593
+"Cileungsi, West Java",31,-6.4118,106.9745
+"Pasir Ris, East Region",31,1.376,103.9569
+"Senoko, North Region",31,1.4662,103.8083
+Jambi,31,-1.6,103.6167
+Negeri Sembilan,30,2.725,101.9375
+"Genting Highlands, Pahang",30,3.4243,101.7933
+"Cheras, Selangor",30,3.0515,101.7726
+"Palu, Central Sulawesi",30,-0.9001,119.8596
+"Kuchai Lama, Kuala Lumpur",29,3.0942,101.6884
+"Kota Kemuning, Selangor",29,2.9913,101.5433
+"Tun Razak Exchange, Kuala Lumpur",29,3.1404,101.719
+"Damansara Perdana, Selangor",29,3.1708,101.6102
+"Punggol, North-East Region",29,1.4069,103.9153
+"Masai, Johor",29,1.4935,103.8893
+"Shah Alam/Subang, Selangor",29,3.0733,101.5185
+"West Coast, West Region",29,1.3374,103.708
+"Cikarang Pusat, Jawa Barat",28,-6.3182,107.1697
+"Brebes, Central Java",28,-6.8833,109.05
+"Admiralty, North Region",28,1.4516,103.8032
+"Kempas, Johor",28,1.5292,103.7241
+"Banyuwangi, East Java",28,-8.2154,114.3634
+"Bogor, Jawa Barat",28,-6.595,106.7887
+"Pekalongan, Central Java",28,-6.8869,109.6698
+"Maritime Square, Central Region",27,1.2686,103.8488
+"Geylang Bahru, Central Region",27,1.3197,103.8727
+"Puchong Jaya, Selangor",27,3.0329,101.6214
+"Demak, Central Java",27,-6.8833,110.6333
+"Balaraja, Banten",27,-6.1792,106.4503
+"Tawau, Sabah",27,4.2448,117.8916
+South Kalimantan,27,-3.3333,115.0
+"Kudus, Central Java",27,-6.8036,110.8398
+"Cameron Highlands, Pahang",27,4.4717,101.3691
+"Boyolali, Central Java",27,-7.5181,110.5954
+"Penampang, Sabah",27,5.9174,116.1053
+Pahang,27,3.8,103.0833
+"Seremban 2, Negeri Sembilan",27,2.6915,101.9091
+"Semarang, Jawa Tengah",26,-6.9932,110.4203
+Bengkulu,26,-3.7956,102.2624
+"Cilacap, Central Java",26,-7.7167,109.0
+"Bandar Utama, Selangor",26,3.1432,101.6165
+"Jurong Island And Bukom, West Region",26,1.274,103.6934
+"Garut, West Java",26,-7.2277,107.903
+West Kalimantan,26,-0.5,111.0
+"Mandai, North Region",25,1.41,103.7875
+"Alexandra North, Central Region",25,1.2898,103.8079
+"Lamongan, East Java",25,-7.1192,112.4169
+"Salatiga, Central Java",25,-7.3333,110.5
+"Palangkaraya, Central Kalimantan",25,-2.21,113.92
+"Bandar Sri Sendayan, Negeri Sembilan",25,2.6832,101.8654
+"Padalarang, West Java",24,-6.8373,107.4897
+"Penjuru Crescent, West Region",24,1.3175,103.7251
+"Serendah, Selangor",24,3.3591,101.5978
+"Bencoolen, Central Region",24,1.2996,103.8508
+"Mutiara Damansara, Selangor",24,3.1552,101.6117
+"Banyumas, Central Java",24,-7.5167,109.2833
+"Jambi City, Jambi",24,-1.6,103.6167
+"Melaka, Melaka",24,2.1896,102.2501
+Kedah,24,6.12,100.37
+"Kuala Selangor, Selangor",23,3.3307,101.2466
+"Sragen, Central Java",23,-7.4303,111.0222
+"North Denpasar, Bali",22,-8.623,115.2142
+"Dhoby Ghaut, Central Region",22,1.2985,103.8459
+"Cianjur, West Java",22,-6.8124,107.1507
+"Meru, Selangor",22,3.0727,101.4459
+"Cimahi, West Java",22,-6.8736,107.5468
+"Pasar Minggu, Jakarta",22,-6.2902,106.8446
+"Sungai Besi, Kuala Lumpur",22,3.0694,101.7156
+"Sidoarjo, Jawa Timur",22,-7.4478,112.7183
+"Kuala Terengganu, Terengganu",22,5.3303,103.1408
+"Karawang, Jawa Barat",22,-6.3051,107.3048
+"Pekan Nanas, Johor",22,1.5128,103.5097
+"Malang Regency, East Java",22,-7.9775,112.6331
+"West Bekasi, West Java",22,-6.2447,106.9625
+"Majalengka, West Java",22,-6.8359,108.225
+"Jombang, East Java",22,-7.546,112.2325
+"Ayer Keroh, Melaka",22,2.2647,102.2854
+"Klang/Port Klang, Selangor",22,2.9992,101.3925
+"Seberang Perai, Penang",22,5.3625,100.4335
+"Bedok North, East Region",21,1.334,103.9329
+"Choa Chu Kang, West Region",21,1.3852,103.7452
+"Morowali, Central Sulawesi",21,-2.8,121.9
+"Sandakan, Sabah",21,5.8402,118.1179
+"Deli Serdang, North Sumatra",21,3.55,98.7167
+"East Cikarang, West Java",21,-6.2953,107.1922
+"Central Semarang, Central Java",21,-6.9932,110.4203
+"Maxwell, Central Region",20,1.2801,103.8436
+"Merauke, South Papua",20,-8.4934,140.4026
+"Melaka Tengah, Melaka",20,2.25,102.25
+"Kota Kediri, East Java",20,-7.8082,112.0117
+"Tebet, Jakarta",20,-6.2357,106.8475
+"Waru, East Java",20,-7.3462,112.7305
+"Sumedang, West Java",20,-6.8586,107.9203
+"Sengkang, North-East Region",19,1.3521,103.8198
+"Batang, Central Java",19,-7.15,110.1403
+"Kluang, Johor",19,1.4927,103.7414
+"Cisarua, West Java",19,-6.9175,107.6191
+"Cikarang, West Java",19,-6.9175,107.6191
+"Jayapura, Papua",19,-4.0,137.0
+"West Kotawaringin, Central Kalimantan",19,-1.0,115.0
+"Tampines North, East Region",19,1.3521,103.8198
+"Taiping, Perak",19,4.5975,101.0901
+"Krian, East Java",19,-7.5361,112.2384
+"Cikampek, West Java",19,-6.9175,107.6191
+"Gunung Putri, West Java",19,-6.9175,107.6191
+"Southern Islands, Central Region",19,1.3521,103.8198
+"Kupang, East Nusa Tenggara",19,-8.5,117.0
+"Bangi, Selangor",19,3.075,101.525
+"Cirebon Regency, West Java",19,-6.9175,107.6191
+"Bandar Sri Damansara, Selangor",18,3.075,101.525
+"Little India, Central Region",18,1.3521,103.8198
+"Pandan, West Region",18,1.3521,103.8198
+"Senawang, Negeri Sembilan",18,2.725,101.9375
+"Bantul Regency, Yogyakarta Special Region",18,-8.5,117.0
+"Makassar, Sulawesi Selatan",18,-3.0,120.0
+"Tampoi, Johor",18,1.4927,103.7414
+"River Valley, Central Region",18,1.3521,103.8198
+"Citeureup, West Java",17,-6.9175,107.6191
+"Kamunting, Perak",17,4.5975,101.0901
+"Gunung Sindur, West Java",17,-6.9175,107.6191
+"Central Lombok, West Nusa Tenggara",17,-8.5,117.0
+"Toh Guan, West Region",17,1.3521,103.8198
+"Simei, East Region",17,1.3521,103.8198
+"Marina Centre, Central Region",17,1.3521,103.8198
+"Ketapang, West Kalimantan",17,-1.0,115.0
+"Maluri, Kuala Lumpur",17,3.139,101.6869
+"Bandar Bukit Puchong, Selangor",17,3.075,101.525
+"Parit Buntar, Perak",17,4.5975,101.0901
+"Pemalang, Central Java",17,-7.15,110.1403
+"Kembangan, Jakarta",16,-6.2088,106.8456
+"Langkawi, Kedah",16,6.12,100.37
+"Seberang Jaya, Penang",16,5.4141,100.3288
+"Dumai, Riau",16,,
+"Samarinda Kota, East Kalimantan",16,-1.0,115.0
+"Potong Pasir, Central Region",16,1.3521,103.8198
+"Bima, West Nusa Tenggara",16,-8.5,117.0
+"Ang Mo Kio Town Centre, North-East Region",16,1.3521,103.8198
+"Cilandak, Jakarta",16,-6.2088,106.8456
+"Farrer Park, Central Region",16,1.3521,103.8198
+"Karanganyar Regency, Central Java",15,-7.15,110.1403
+"Sorong, West Papua",15,-4.0,137.0
+Aceh,15,-0.5,104.0
+"Malang, Jawa Timur",15,-7.5361,112.2384
+"Batam Kota, Kepulauan Riau",15,1.0,104.0
+"Tambora, Jakarta",15,-6.2088,106.8456
+"Pati, Central Java",15,-7.15,110.1403
+Terengganu,15,5.3303,103.1408
+"Pangkal Pinang, Bangka Belitung",15,-2.1333,106.1333
+"Tuban, East Java",15,-7.5361,112.2384
+Labuan,15,5.9788,116.0753
+"Pontian, Johor",15,1.4927,103.7414
+"Manado, Sulawesi Utara",15,-3.0,120.0
+"Chemor, Perak",15,4.5975,101.0901
+"Balikpapan, Kalimantan Timur",15,-8.3405,115.092
+Kelantan,14,6.1236,102.2431
+"Selayang, Selangor",14,3.075,101.525
+"Subang, Selangor",14,3.075,101.525
+"Kebon Jeruk, Jakarta",14,-6.2088,106.8456
+"Berau, East Kalimantan",14,-1.0,115.0
+"Gambir, Jakarta",14,-6.2088,106.8456
+"South Bekasi, West Java",14,-6.9175,107.6191
+"Yogyakarta, DI Yogyakarta",14,-8.5,117.0
+"Klungkung, Bali",14,-8.3405,115.092
+"Palembang, Sumatera Selatan",14,-0.5,104.0
+South Sulawesi,14,-3.0,120.0
+Gorontalo,14,0.7186,122.4475
+"Serangoon North, North-East Region",14,1.3521,103.8198
+"Marine Parade, Central Region",14,1.3521,103.8198
+"Simalungun, North Sumatra",14,-0.5,104.0
+Jawa Barat,13,-6.9175,107.6191
+"Ambon, Maluku",13,-3.0,128.0
+"Bukit Jelutong, Selangor",13,3.075,101.525
+"Port Dickson, Negeri Sembilan",13,2.725,101.9375
+"Gedangan, East Java",13,-7.5361,112.2384
+"West Bogor, West Java",13,-6.9175,107.6191
+"Taman OUG, Kuala Lumpur",13,3.139,101.6869
+"Mount Austin, Johor",13,1.4927,103.7414
+"East Kotawaringin, Central Kalimantan",13,-1.0,115.0
+"Bukit Indah, Johor",13,1.4927,103.7414
+"Lorong Chuan, North-East Region",13,1.3521,103.8198
+"Jalan Ipoh, Kuala Lumpur",13,3.139,101.6869
+Southeast Sulawesi,13,-3.0,120.0
+"Pasar Kemis, Banten",13,-6.12,106.1503
+"Indramayu, West Java",13,-6.9175,107.6191
+"Curug, Banten",13,-6.12,106.1503
+"Inanam, Sabah",13,5.9788,116.0753
+"Jelutong, Penang",12,5.4141,100.3288
+"Rochor, Central Region",12,1.3521,103.8198
+"Balestier, Central Region",12,1.3521,103.8198
+"Sanggau, West Kalimantan",12,-1.0,115.0
+"Teluknaga, Banten",12,-6.12,106.1503
+"Subang Airport, Selangor",12,3.075,101.525
+"Commonwealth, Central Region",12,1.3521,103.8198
+"Legok, Banten",12,-6.12,106.1503
+"Batujajar, West Java",12,-6.9175,107.6191
+"Puncak Alam, Selangor",12,3.075,101.525
+"Bintan, Riau Islands",12,1.0,104.0
+"Nganjuk, East Java",12,-7.5361,112.2384
+Kalimantan Timur,12,-1.0,115.0
+"Bedok South, East Region",12,1.3521,103.8198
+"Sitiawan, Perak",12,4.5975,101.0901
+"Cikarang Utara, Jawa Barat",12,-6.9175,107.6191
+"UEP Subang Jaya, Selangor",12,3.075,101.525
+"Semarang Regency, Central Java",12,-7.15,110.1403
+"Bojonegoro, East Java",12,-7.5361,112.2384
+"Bukit Panjang, West Region",12,1.3521,103.8198
+"Ternate, North Maluku",12,-3.0,128.0
+"Alor Gajah, Melaka",12,2.1896,102.2501
+"Driyorejo, East Java",12,-7.5361,112.2384
+"Yong Peng, Johor",12,1.4927,103.7414
+"Kelapa Gading, Jakarta Raya",12,-6.2088,106.8456
+"Batu, East Java",12,-7.5361,112.2384
+"Sedenak, Johor",12,1.4927,103.7414
+"Depok, Yogyakarta Special Region",11,-8.5,117.0
+"Gelugor, Penang",11,5.4141,100.3288
+Sumatera Utara,11,-0.5,104.0
+"West Semarang, Central Java",11,-7.15,110.1403
+"Nibong Tebal, Penang",11,5.4141,100.3288
+Jawa Timur,11,-7.5361,112.2384
+"Lahad Datu, Sabah",11,5.9788,116.0753
+"Sentul, Kuala Lumpur",11,3.139,101.6869
+"Tulungagung, East Java",11,-7.5361,112.2384
+"Blitar, East Java",11,-7.5361,112.2384
+"East Purwokerto, Central Java",11,-7.15,110.1403
+"Bandar Enstek, Negeri Sembilan",11,2.725,101.9375
+"Tigaraksa, Banten",11,-6.12,106.1503
+"Seletar, North-East Region",11,1.3521,103.8198
+Riau Islands,11,1.0,104.0
+"Gua Musang, Kelantan",11,6.1236,102.2431
+"Jepara Regency, Central Java",11,-7.15,110.1403
+"Kalijati, West Java",11,-6.9175,107.6191
+"Damansara Utama, Selangor",11,3.075,101.525
+"Lahat, South Sumatra",11,-0.5,104.0
+"Bontang, East Kalimantan",11,-1.0,115.0
+"Marymount, Central Region",11,1.3521,103.8198
+"Yew Tee, West Region",11,1.3521,103.8198
+"Probolinggo, East Java",11,-7.5361,112.2384
+"Temanggung, Central Java",11,-7.15,110.1403
+"Tanah Abang, Jakarta",11,-6.2088,106.8456
+"Taman, East Java",10,-7.5361,112.2384
+"Kuala Ketil, Kedah",10,6.12,100.37
+"East Ciputat, Banten",10,-6.12,106.1503
+"Depok, Jawa Barat",10,-6.9175,107.6191
+"Holland Village, Central Region",10,1.3521,103.8198
+"Bertam, Penang",10,5.4141,100.3288
+"Chow Kit, Kuala Lumpur",10,3.139,101.6869
+"Seletar Aerospace Park, North-East Region",10,1.3521,103.8198
+"Ciracas, Jakarta",10,-6.2088,106.8456
+"Pasuruan Regency, East Java",10,-7.5361,112.2384
+"Queensway, Central Region",10,1.3521,103.8198
+"Telanaipura, Jambi",10,-0.5,104.0
+"East Denpasar, Bali",10,-8.3405,115.092
+"Juru, Penang",10,5.4141,100.3288
+"Damansara Jaya, Selangor",10,3.075,101.525
+"Ampang, Kuala Lumpur",10,3.139,101.6869
+"Kota Blora, Central Java",10,-7.15,110.1403
+"Gresik, Jawa Timur",10,-7.5361,112.2384
+"Kim Keat, Central Region",10,1.3521,103.8198
+"Tengah, West Region",10,1.3521,103.8198
+"Bandar Sri Permaisuri, Kuala Lumpur",10,3.139,101.6869
+"Balikpapan Kota, East Kalimantan",10,-8.3405,115.092
+"Buleleng, Bali",10,-8.3405,115.092
+"Geylang East, Central Region",10,1.3521,103.8198
+"Tarakan, North Kalimantan",9,-1.0,115.0
+East Nusa Tenggara,9,-8.5,117.0
+"East Bogor, West Java",9,-6.9175,107.6191
+"Bras Basah, Central Region",9,1.3521,103.8198
+"Kelapa Dua, Banten",9,-6.12,106.1503
+West Sumatra,9,-0.5,104.0
+"Kepala Batas, Penang",9,5.4141,100.3288
+"Lumut, Perak",9,4.5975,101.0901
+"Jenjarom, Selangor",9,3.075,101.525
+"Gianyar Regency, Bali",9,-8.3405,115.092
+"Kampung Malaysia Raya, Kuala Lumpur",9,4.2105,101.9758
+"Kuala Lumpur International Airport, Selangor",9,3.075,101.525
+"Klang District, Selangor",9,3.075,101.525
+"Tebing Tinggi, North Sumatra",9,-0.5,104.0
+"Batuceper, Banten",9,-6.12,106.1503
+"Tanjung Malim, Perak",9,4.5975,101.0901
+"Sarolangun, Jambi",9,-0.5,104.0
+"Telok Blangah, Central Region",9,1.3521,103.8198
+"Upper Paya Lebar, North-East Region",9,1.3521,103.8198
+"Binjai, North Sumatra",9,-0.5,104.0
+"Morowali, Sulawesi Tengah",9,-3.0,120.0
+"Cimanggis, West Java",9,-6.9175,107.6191
+"Palopo, South Sulawesi",9,-3.0,120.0
+"Tebrau, Johor",9,1.4927,103.7414
+"Kuala Nerus, Terengganu",9,5.3303,103.1408
+"Jitra, Kedah",8,6.12,100.37
+"Ponorogo, East Java",8,-7.5361,112.2384
+"Cisauk, Banten",8,-6.12,106.1503
+"Genteng, East Java",8,-7.5361,112.2384
+"Tampines East, East Region",8,1.3521,103.8198
+"Siglap, East Region",8,1.3521,103.8198
+"Bangli, Bali",8,-8.3405,115.092
+"Curug Bitung, Banten",8,-6.12,106.1503
+"Taman Universiti, Johor",8,1.4927,103.7414
+"Permas Jaya, Johor",8,1.4927,103.7414
+"Somerset, Central Region",8,1.3521,103.8198
+"Samarinda, Kalimantan Timur",8,-1.0,115.0
+"Pagedangan, Banten",8,-6.12,106.1503
+"Pancoran, Jakarta",8,-6.2088,106.8456
+"Lubuk Linggau, South Sumatra",8,-0.5,104.0
+"North Lombok, West Nusa Tenggara",8,-8.5,117.0
+"Labuhanbatu, North Sumatra",8,-0.5,104.0
+"Ngoro, East Java",8,-7.5361,112.2384
+"Karak, Pahang",8,3.8,103.0833
+"Purbalingga, Central Java",8,-7.15,110.1403
+"West Sumbawa, West Nusa Tenggara",8,-8.5,117.0
+"Yishun Central, North Region",8,1.3521,103.8198
+"Tanjung Langsat, Johor",8,1.4927,103.7414
+"Bayan Baru, Penang",8,5.4141,100.3288
+"Mak Mandin, Penang",8,5.4141,100.3288
+"Tanjung Pinang, Riau Islands",8,1.0,104.0
+"Kota Samarahan, Sarawak",8,1.55,110.3333
+"Menteng, Jakarta",8,-6.2088,106.8456
+"Tanjung Tokong, Penang",8,5.4141,100.3288
+"Changi Point, East Region",8,1.3521,103.8198
+"Kebumen, Central Java",8,-7.15,110.1403
+"Kuningan, West Java",8,-6.9175,107.6191
+"Newton, Central Region",8,1.3521,103.8198
+"Banda Aceh, Aceh",8,-0.5,104.0
+"Pengerang, Johor",8,1.4927,103.7414
+"Timika, Central Papua",8,-4.0,137.0
+"Purwakarta Regency, West Java",8,-6.9175,107.6191
+"Benoi Sector, West Region",8,1.3521,103.8198
+"Gebeng, Pahang",8,3.8,103.0833
+"Ayer Itam, Penang",8,5.4141,100.3288
+Overseas (from Hong Kong),7,,
+"Pamekasan, East Java",7,-7.5361,112.2384
+"Pasuruan, Jawa Timur",7,-7.5361,112.2384
+"Rancaekek, West Java",7,-6.9175,107.6191
+"Benda, Banten",7,-6.12,106.1503
+"Ciputat, Banten",7,-6.12,106.1503
+"Situbondo, East Java",7,-7.5361,112.2384
+"Colomadu, Central Java",7,-7.15,110.1403
+"Cikarang Barat, Jawa Barat",7,-6.9175,107.6191
+"Setiu, Terengganu",7,5.3303,103.1408
+"Bintulu Division, Sarawak",7,1.55,110.3333
+"Serdang, Selangor",7,3.075,101.525
+"Bandar Kinrara, Selangor",7,3.075,101.525
+"Batu Licin, South Kalimantan",7,-1.0,115.0
+"Batu Arang, Selangor",7,3.075,101.525
+"Kalianda, Lampung",7,-0.5,104.0
+"Pandaan, East Java",7,-7.5361,112.2384
+"Demak Regency, Central Java",7,-7.15,110.1403
+"Jurong Gateway, West Region",7,1.3521,103.8198
+"Depot Road, Central Region",7,1.3521,103.8198
+"Bandar Botanic, Selangor",7,3.075,101.525
+"Bengkalis, Riau",7,,
+"West Medan, North Sumatra",7,-0.5,104.0
+"Brickfields, Kuala Lumpur",7,3.139,101.6869
+"Jatiasih, West Java",7,-6.9175,107.6191
+"Bitung, North Sulawesi",7,-3.0,120.0
+"Central Lampung, Lampung",7,-0.5,104.0
+"Serang Regency, Banten",7,-6.12,106.1503
+North Sulawesi,7,-3.0,120.0
+Sumatera Selatan,7,-0.5,104.0
+"Pusat Bandar Damansara, Kuala Lumpur",7,3.139,101.6869
+"Pematangsiantar, North Sumatra",7,-0.5,104.0
+"Yio Chu Kang, North-East Region",7,1.3521,103.8198
+"North Serpong, Banten",7,-6.12,106.1503
+"Pusat Bandar Puchong, Selangor",7,3.075,101.525
+"Tagore, North-East Region",7,1.3521,103.8198
+"Muadzam Shah, Pahang",7,3.8,103.0833
+"Hougang East, North-East Region",7,1.3521,103.8198
+"Batu Gajah, Perak",7,4.5975,101.0901
+"Kota Marudu, Sabah",7,5.9788,116.0753
+"Seelong, Johor",7,1.4927,103.7414
+"Tanjung Bungah, Penang",7,5.4141,100.3288
+"Defu Industrial Park, North-East Region",7,1.3521,103.8198
+"Mengwi, Bali",7,-8.3405,115.092
+"Woodlands Regional Centre, North Region",7,1.3521,103.8198
+"Upper Thomson, Central Region",7,1.3521,103.8198
+"People's Park, Central Region",7,1.3521,103.8198
+"Taman Desa, Kuala Lumpur",7,3.139,101.6869
+"Bawen, Central Java",7,-7.15,110.1403
+"Paloh, West Kalimantan",7,-1.0,115.0
+"Others, East Region",7,1.3521,103.8198
+"Ngawi, East Java",7,-7.5361,112.2384
+"Umbulharjo, Yogyakarta Special Region",7,-8.5,117.0
+"Wonogiri, Central Java",7,-7.15,110.1403
+"North Bogor, West Java",7,-6.9175,107.6191
+"Banguntapan, Yogyakarta Special Region",7,-8.5,117.0
+"Malim Jaya, Melaka",7,2.1896,102.2501
+"Medan Deli, North Sumatra",7,-0.5,104.0
+"Semporna, Sabah",7,5.9788,116.0753
+"Putra Heights, Selangor",7,3.075,101.525
+"Kajang/Bangi/Serdang, Selangor",7,3.075,101.525
+"Wangsa Maju, Kuala Lumpur",7,3.139,101.6869
+"Forest City, Johor",7,1.4927,103.7414
+"Sungai Bakap, Penang",7,5.4141,100.3288
+"Sungei Kadut, North Region",7,1.3521,103.8198
+Nusa Tenggara Barat,7,-8.5,117.0
+"Bukit Batok Central, West Region",6,1.3521,103.8198
+"Crawford, Central Region",6,1.3521,103.8198
+"Pandan Indah, Selangor",6,3.075,101.525
+"Kebayoran Baru, Jakarta",6,-6.2088,106.8456
+"Nabire, Central Papua",6,-4.0,137.0
+"Tawau District, Sabah",6,5.9788,116.0753
+"Temerloh, Pahang",6,3.8,103.0833
+"Mountbatten, Central Region",6,1.3521,103.8198
+"Lunas, Kedah",6,6.12,100.37
+"South Purwokerto, Central Java",6,-7.15,110.1403
+"Ulu Choh, Johor",6,1.4927,103.7414
+"Indramayu Regency, West Java",6,-6.9175,107.6191
+"Jasin, Melaka",6,2.1896,102.2501
+"Sauk, Perak",6,4.5975,101.0901
+"Jetis, Yogyakarta Special Region",6,-8.5,117.0
+"Paser, East Kalimantan",6,-1.0,115.0
+"Metro, Lampung",6,-0.5,104.0
+"Cengkareng, Jakarta Raya",6,-6.2088,106.8456
+"Taman Desa Cemerlang, Johor",6,1.4927,103.7414
+Kalimantan Selatan,6,-1.0,115.0
+"Tanjung Pelepas, Johor",6,1.4927,103.7414
+"Batu Berendam, Melaka",6,2.1896,102.2501
+"Mlati, Yogyakarta Special Region",6,-8.5,117.0
+"Pusing, Perak",6,4.5975,101.0901
+"Kendal, Jawa Tengah",6,-7.15,110.1403
+"Sri Hartamas, Kuala Lumpur",6,3.139,101.6869
+"Merlimau, Melaka",6,2.1896,102.2501
+"Pandamaran, Selangor",6,3.075,101.525
+"Barito Kuala, South Kalimantan",6,-1.0,115.0
+"Donggongon, Sabah",6,5.9788,116.0753
+"Batang Regency, Central Java",6,-7.15,110.1403
+"Sandakan District, Sabah",6,5.9788,116.0753
+"North Bekasi, West Java",6,-6.9175,107.6191
+"Sidenreng Rappang, South Sulawesi",6,-3.0,120.0
+"Pesawaran, Lampung",6,-0.5,104.0
+"Jelapang, Perak",6,4.5975,101.0901
+"Bandar Baru Nilai, Negeri Sembilan",6,2.725,101.9375
+"Banjar, West Java",6,-6.9175,107.6191
+"Bandar Baru Klang, Selangor",6,3.075,101.525
+"Suko Manunggal, East Java",6,-7.5361,112.2384
+"Kabupaten Bekasi, Jawa Barat",6,-6.9175,107.6191
+"Musi Banyuasin, South Sumatra",6,-0.5,104.0
+"Central Water Catchment, North Region",6,1.3521,103.8198
+"Lawang, East Java",6,-7.5361,112.2384
+"Serangoon Central, North-East Region",6,1.3521,103.8198
+"Jagebob, South Papua",6,-4.0,137.0
+"Manokwari, West Papua",6,-4.0,137.0
+"Kallang Way, Central Region",6,1.3521,103.8198
+"Kubu Raya, West Kalimantan",6,-1.0,115.0
+"Kemayoran, Jakarta Raya",6,-6.2088,106.8456
+"Madiun, Jawa Timur",6,-7.5361,112.2384
+"Jepara, Central Java",6,-7.15,110.1403
+"Sumbawa Barat, Nusa Tenggara Barat",6,-8.5,117.0
+"Bone, South Sulawesi",6,-3.0,120.0
+"Pandeglang, Banten",6,-6.12,106.1503
+"Berbah, Yogyakarta Special Region",6,-8.5,117.0
+"Purwosari, East Java",6,-7.5361,112.2384
+"Tuas Bay, West Region",6,1.3521,103.8198
+"Mojokerto Regency, East Java",6,-7.5361,112.2384
+"Gunung Putri, Jawa Barat",6,-6.9175,107.6191
+"Ciamis, West Java",6,-6.9175,107.6191
+"Prabumulih, South Sumatra",6,-0.5,104.0
+"Jatisampurna, West Java",6,-6.9175,107.6191
+"Cempaka Putih, Jakarta",6,-6.2088,106.8456
+"Setiawangsa, Kuala Lumpur",6,3.139,101.6869
+"Rembang, Central Java",6,-7.15,110.1403
+"Sawah Besar, Jakarta",6,-6.2088,106.8456
+"East Karawang, West Java",6,-6.9175,107.6191
+"Merauke, Papua Selatan",6,-4.0,137.0
+"Komodo, East Nusa Tenggara",6,-8.5,117.0
+"Clementi Central, West Region",5,1.3521,103.8198
+"Others, Central Region",5,1.3521,103.8198
+"Kerteh, Terengganu",5,5.3303,103.1408
+"Kemasik, Terengganu",5,5.3303,103.1408
+"Sunway Iskandar, Johor",5,1.4927,103.7414
+"Taman Connaught, Kuala Lumpur",5,3.139,101.6869
+"Pudu, Kuala Lumpur",5,3.139,101.6869
+"Padang Serai, Kedah",5,6.12,100.37
+"Beranang, Selangor",5,3.075,101.525
+"Serian Division, Sarawak",5,1.55,110.3333
+"Taman Melawati, Selangor",5,3.075,101.525
+"Bukit Baru, Melaka",5,2.1896,102.2501
+Jawa Tengah,5,-7.15,110.1403
+"Gali Batu, North Region",5,1.3521,103.8198
+"Gopeng, Perak",5,4.5975,101.0901
+"Batu Maung, Penang",5,5.4141,100.3288
+"Pinang, Banten",5,-6.12,106.1503
+"Tuaran, Sabah",5,5.9788,116.0753
+"Pontianak, Kalimantan Barat",5,-1.0,115.0
+"Bandar Mahkota Cheras, Selangor",5,3.075,101.525
+"Fort Canning, Central Region",5,1.3521,103.8198
+"Midview, North Region",5,1.3521,103.8198
+"Ranau, Sabah",5,5.9788,116.0753
+"Rokan Hulu, Riau",5,,
+"Larkin, Johor",5,1.4927,103.7414
+"Asahan, North Sumatra",5,-0.5,104.0
+"Manjung District, Perak",5,4.5975,101.0901
+"Desa Parkcity, Kuala Lumpur",5,3.139,101.6869
+"Batang Kali, Selangor",5,3.075,101.525
+"Kuching Division, Sarawak",5,1.55,110.3333
+"Taman Molek, Johor",5,1.4927,103.7414
+"Kampar, Perak",5,4.5975,101.0901
+"Ciledug, Banten",5,-6.12,106.1503
+"Kota Tinggi, Johor",5,1.4927,103.7414
+"Dengkil, Selangor",5,3.075,101.525
+"Pademangan, Jakarta",5,-6.2088,106.8456
+"Kulai District, Johor",5,1.4927,103.7414
+"Pengkalan Chepa, Kelantan",5,6.1236,102.2431
+"East Kutai, East Kalimantan",5,-1.0,115.0
+"i-City, Selangor",5,3.075,101.525
+North Kalimantan,5,-1.0,115.0
+"Mojokerto, Jawa Timur",5,-7.5361,112.2384
+"Banjarnegara Regency, Central Java",5,-7.15,110.1403
+"Krubong, Melaka",5,2.1896,102.2501
+"South Arut, Central Kalimantan",5,-1.0,115.0
+Sumatera Barat,5,-0.5,104.0
+"Sungai Lalang, Kedah",5,6.12,100.37
+"Banjarnegara, Central Java",5,-7.15,110.1403
+"Lebak, Banten",5,-6.12,106.1503
+"Muara Enim, South Sumatra",5,-0.5,104.0
+"Kota Belud, Sabah",5,5.9788,116.0753
+"North Morowali, Central Sulawesi",5,-3.0,120.0
+"Duren Sawit, Jakarta",5,-6.2088,106.8456
+"Langkat, North Sumatra",5,-0.5,104.0
+"Bangkalan, East Java",5,-7.5361,112.2384
+"West Lombok, West Nusa Tenggara",5,-8.5,117.0
+"Batu Pahat District, Johor",5,1.4927,103.7414
+"Bandar Bukit Tinggi, Selangor",5,3.075,101.525
+"Purwodadi, Central Java",5,-7.15,110.1403
+"Gorontalo City, Gorontalo",5,0.7186,122.4475
+"Elmina, Selangor",5,3.075,101.525
+"Siantar, North Sumatra",5,-0.5,104.0
+"Margomulyo, East Java",5,-7.5361,112.2384
+"Bukit Rambai, Melaka",5,2.1896,102.2501
+"Margahayu, West Java",5,-6.9175,107.6191
+"Wonosobo, Central Java",5,-7.15,110.1403
+"Boon Lay Place, West Region",5,1.3521,103.8198
+West Nusa Tenggara,5,-8.5,117.0
+"Mampang Prapatan, Jakarta",5,-6.2088,106.8456
+"Karimun, Riau Islands",5,1.0,104.0
+Central Sulawesi,5,-3.0,120.0
+"Tegal, Jawa Tengah",5,-7.15,110.1403
+"Bachok, Kelantan",5,6.1236,102.2431
+Sulawesi Selatan,5,-3.0,120.0
+"Payangan, Bali",5,-8.3405,115.092
+"East Balikpapan, East Kalimantan",5,-8.3405,115.092
+"Pesanggrahan, Jakarta",5,-6.2088,106.8456
+"Nusa Penida, Bali",5,-8.3405,115.092
+"Gunungpati, Central Java",5,-7.15,110.1403
+"Toa Payoh West, Central Region",5,1.3521,103.8198
+"Tuas View, West Region",5,1.3521,103.8198
+"Belitung Regency, Bangka Belitung",5,-2.1333,106.1333
+"Loyang East, East Region",5,1.3521,103.8198
+"Paya Lebar East, East Region",5,1.3521,103.8198
+"Pioneer Sector, West Region",5,1.3521,103.8198
+"Maduran, East Java",5,-7.5361,112.2384
+"Pomalaa, Southeast Sulawesi",5,-3.0,120.0
+"Tanjung Priok, Jakarta",5,-6.2088,106.8456
+"Sintang, West Kalimantan",5,-1.0,115.0
+"Bukit Batok East, West Region",5,1.3521,103.8198
+"Majalaya, West Java",5,-6.9175,107.6191
+"Cirebon, Jawa Barat",5,-6.9175,107.6191
+"Pahandut, Central Kalimantan",5,-1.0,115.0
+"Medan Helvetia, North Sumatra",5,-0.5,104.0
+"Kartasura, Central Java",5,-7.15,110.1403
+"Tuban Regency, East Java",5,-7.5361,112.2384
+"Kalideres, Jakarta Raya",5,-6.2088,106.8456
+"Gempol, East Java",5,-7.5361,112.2384
+"Pulau Tikus, Penang",4,5.4141,100.3288
+"Pontianak Town, West Kalimantan",4,-1.0,115.0
+"North Konawe, Southeast Sulawesi",4,-3.0,120.0
+"Plentong, Johor",4,1.4927,103.7414
+"Kimanis, Sabah",4,5.9788,116.0753
+"Pal Merah, Jakarta",4,-6.2088,106.8456
+"Ogan Komering Ilir, South Sumatra",4,-0.5,104.0
+"Rangkasbitung, Banten",4,-6.12,106.1503
+"Mandailing Natal, North Sumatra",4,-0.5,104.0
+"Kepong Baru, Kuala Lumpur",4,3.139,101.6869
+"Sukabumi Regency, West Java",4,-6.9175,107.6191
+"Tembagapura, Central Papua",4,-4.0,137.0
+"Kabupaten Bandung, Jawa Barat",4,-6.9175,107.6191
+"Beji, East Java",4,-7.5361,112.2384
+"Others, Penang",4,5.4141,100.3288
+"Jonggol, West Java",4,-6.9175,107.6191
+"Bandung Barat, Jawa Barat",4,-6.9175,107.6191
+"Ciseeng, West Java",4,-6.9175,107.6191
+"Woodleigh, Central Region",4,1.3521,103.8198
+"Mandai West, North Region",4,1.3521,103.8198
+"Bayfront Subzone, Central Region",4,1.3521,103.8198
+"Senoko South, North Region",4,1.3521,103.8198
+"Bukit Batok West, West Region",4,1.3521,103.8198
+"Mandai Estate, North Region",4,1.3521,103.8198
+"Luwu, Sulawesi Selatan",4,-3.0,120.0
+"Cakung, Jakarta Raya",4,-6.2088,106.8456
+"Singapore General Hospital, Central Region",4,1.3521,103.8198
+"Others, West Region",4,1.3521,103.8198
+"Parigi Moutong, Central Sulawesi",4,-3.0,120.0
+"Bau Bau, Southeast Sulawesi",4,-3.0,120.0
+"Sungai Jawi, Penang",4,5.4141,100.3288
+"Kinarut, Sabah",4,5.9788,116.0753
+"Ngaglik, Yogyakarta Special Region",4,-8.5,117.0
+"Kota Masai, Johor",4,1.4927,103.7414
+"North Balikpapan, East Kalimantan",4,-8.3405,115.092
+"Ngajum, East Java",4,-7.5361,112.2384
+"Cicendo, West Java",4,-6.9175,107.6191
+"Sungai Long, Selangor",4,3.075,101.525
+"Bandar Menjalara, Kuala Lumpur",4,3.139,101.6869
+"Sawangan, West Java",4,-6.9175,107.6191
+"Prigen, East Java",4,-7.5361,112.2384
+"Magetan, East Java",4,-7.5361,112.2384
+"Wonokromo, East Java",4,-7.5361,112.2384
+"Pakuhaji, Banten",4,-6.12,106.1503
+"Taman Johor Jaya, Johor",4,1.4927,103.7414
+"Papar, Sabah",4,5.9788,116.0753
+"Subang Bestari, Selangor",4,3.075,101.525
+"Kendal Regency, Central Java",4,-7.15,110.1403
+"Kota Kinabalu District, Sabah",4,5.9788,116.0753
+"Singkawang, West Kalimantan",4,-1.0,115.0
+"Taman Wahyu, Kuala Lumpur",4,3.139,101.6869
+"Tuas View Extension, West Region",4,1.3521,103.8198
+"Setia Tropika, Johor",4,1.4927,103.7414
+"South Lampung, Lampung",4,-0.5,104.0
+"Banyuwangi Regency, East Java",4,-7.5361,112.2384
+"Bentong, Pahang",4,3.8,103.0833
+"Kudus Kota, Central Java",4,-7.15,110.1403
+DI Yogyakarta,4,-8.5,117.0
+"Tanjung Morawa, North Sumatra",4,-0.5,104.0
+"Sumenep, East Java",4,-7.5361,112.2384
+"Cicalengka, West Java",4,-6.9175,107.6191
+"Medan Sunggal, North Sumatra",4,-0.5,104.0
+"Bandar Dato'Onn, Johor",4,1.4927,103.7414
+"Dukuh Pakis, East Java",4,-7.5361,112.2384
+"Karangasem, Bali",4,-8.3405,115.092
+"Shamelin Perkasa, Kuala Lumpur",4,3.139,101.6869
+"Bukittinggi, West Sumatra",4,-0.5,104.0
+"Lahad Datu District, Sabah",4,5.9788,116.0753
+"Tabalong, South Kalimantan",4,-1.0,115.0
+"Parongpong, West Java",4,-6.9175,107.6191
+"Bergas, Central Java",4,-7.15,110.1403
+"Padang Sidempuan, North Sumatra",4,-0.5,104.0
+"Stabat, North Sumatra",4,-0.5,104.0
+Papua,4,-4.0,137.0
+"Purwakarta, Jawa Barat",4,-6.9175,107.6191
+"Taman Putra Perdana, Selangor",4,3.075,101.525
+"Bangsar Baru, Kuala Lumpur",4,3.139,101.6869
+"Chin Bee, West Region",4,1.3521,103.8198
+"Kapuas, Central Kalimantan",4,-1.0,115.0
+"Lakeside, West Region",4,1.3521,103.8198
+"Cikarang Selatan, Jawa Barat",4,-6.9175,107.6191
+"Central Seberang Perai, Penang",4,5.4141,100.3288
+"Beaufort, Sabah",4,5.9788,116.0753
+"Kabuh, East Java",4,-7.5361,112.2384
+"Godean, Yogyakarta Special Region",4,-8.5,117.0
+"Bidor, Perak",4,4.5975,101.0901
+"Medan Kota, Sumatera Utara",4,-0.5,104.0
+"Tampin, Negeri Sembilan",4,2.725,101.9375
+"Teluk Sampit, Central Kalimantan",4,-1.0,115.0
+"Gombak, Selangor",4,3.075,101.525
+"Kluang District, Johor",4,1.4927,103.7414
+"Segambut, Kuala Lumpur",4,3.139,101.6869
+"Konawe, Southeast Sulawesi",4,-3.0,120.0
+"Lombok Tengah, Nusa Tenggara Barat",4,-8.5,117.0
+"East Coast, Central Region",4,1.3521,103.8198
+"Bukit Beruntung, Selangor",4,3.075,101.525
+"Lamongan, Jawa Timur",4,-7.5361,112.2384
+Kalimantan Tengah,4,-1.0,115.0
+"Sragen Regency, Central Java",3,-7.15,110.1403
+"Taman, Jawa Timur",3,-7.5361,112.2384
+"Babelan, West Java",3,-6.9175,107.6191
+"Menteng, Jakarta Raya",3,-6.2088,106.8456
+"Jatiuwung, Banten",3,-6.12,106.1503
+"Pringsewu, Lampung",3,-0.5,104.0
+"Pekalongan, Jawa Tengah",3,-7.15,110.1403
+"Kebayoran Lama, Jakarta Raya",3,-6.2088,106.8456
+"Kampar, Riau",3,,
+"West Telukjambe, West Java",3,-6.9175,107.6191
+"Pekalongan Regency, Central Java",3,-7.15,110.1403
+"Petaling Jaya Selatan, Selangor",3,3.075,101.525
+"Wiyung, East Java",3,-7.5361,112.2384
+"Putatan, Sabah",3,5.9788,116.0753
+"Pati, Jawa Tengah",3,-7.15,110.1403
+"Sembawang Central, North Region",3,1.3521,103.8198
+"Pulau Punggol Barat, North-East Region",3,1.3521,103.8198
+"Jurong Port, West Region",3,1.3521,103.8198
+"Toh Tuck, West Region",3,1.3521,103.8198
+"Sungai Siput, Perak",3,4.5975,101.0901
+"Bahau, Negeri Sembilan",3,2.725,101.9375
+"Tangkak, Johor",3,1.4927,103.7414
+"Pamulang, Banten",3,-6.12,106.1503
+"Bandar Rimbayu, Selangor",3,3.075,101.525
+"Tulang Bawang, Lampung",3,-0.5,104.0
+"Cileungsi, Jawa Barat",3,-6.9175,107.6191
+"Nias Regency, North Sumatra",3,-0.5,104.0
+"Kerambitan, Bali",3,-8.3405,115.092
+"Musi Banyuasin, Sumatera Selatan",3,-0.5,104.0
+"Pasir Mas, Kelantan",3,6.1236,102.2431
+"Cibitung, Jawa Barat",3,-6.9175,107.6191
+"Jatinegara, Jakarta",3,-6.2088,106.8456
+"Madiun Regency, East Java",3,-7.5361,112.2384
+"Kudat District, Sabah",3,5.9788,116.0753
+"Landak, West Kalimantan",3,-1.0,115.0
+"Ruteng, East Nusa Tenggara",3,-8.5,117.0
+"Bukit Selambau, Kedah",3,6.12,100.37
+"Bireuen, Aceh",3,-0.5,104.0
+"Muara Wahau, East Kalimantan",3,-1.0,115.0
+"Tanah Rata, Pahang",3,3.8,103.0833
+"Seputeh, Kuala Lumpur",3,3.139,101.6869
+"Kinabatangan, Sabah",3,5.9788,116.0753
+"Straits View, Central Region",3,1.3521,103.8198
+"Serangoon Garden, North-East Region",3,1.3521,103.8198
+"Klojen, East Java",3,-7.5361,112.2384
+"Lubuk Linggau, Sumatera Selatan",3,-0.5,104.0
+"Taman Midah, Kuala Lumpur",3,3.139,101.6869
+"Central Subzone, Central Region",3,1.3521,103.8198
+"Lhokseumawe, Aceh",3,-0.5,104.0
+"Sibolga, North Sumatra",3,-0.5,104.0
+"Bengkulu City, Bengkulu",3,-0.5,104.0
+"Kalasan, Yogyakarta Special Region",3,-8.5,117.0
+"Banyuasin, South Sumatra",3,-0.5,104.0
+"Rungkut, East Java",3,-7.5361,112.2384
+"Sambas Regency, West Kalimantan",3,-1.0,115.0
+"Labu, Negeri Sembilan",3,2.725,101.9375
+"North Cimahi, West Java",3,-6.9175,107.6191
+"Cilincing, Jakarta",3,-6.2088,106.8456
+"Sanan Wetan, East Java",3,-7.5361,112.2384
+"Siak, Riau",3,,
+"West Kutai, East Kalimantan",3,-1.0,115.0
+"Magelang Regency, Central Java",3,-7.15,110.1403
+"Kota Mataram, Nusa Tenggara Barat",3,-8.5,117.0
+"Pulau Meranti, Selangor",3,3.075,101.525
+"Bandar Tasik Selatan, Kuala Lumpur",3,3.139,101.6869
+"Pare-Pare, Sulawesi Selatan",3,-3.0,120.0
+"Lumajang, East Java",3,-7.5361,112.2384
+Sulawesi Tenggara,3,-3.0,120.0
+South Papua,3,-4.0,137.0
+"Turi, Yogyakarta Special Region",3,-8.5,117.0
+"Bantargebang, West Java",3,-6.9175,107.6191
+"Jagakarsa, Jakarta",3,-6.2088,106.8456
+"Genting Sempah, Pahang",3,3.8,103.0833
+"Jepara, Jawa Tengah",3,-7.15,110.1403
+"Pendang, Kedah",3,6.12,100.37
+"Simpang Renggam, Johor",3,1.4927,103.7414
+"Gambut, South Kalimantan",3,-1.0,115.0
+"Batu Ferringhi, Penang",3,5.4141,100.3288
+"Lenggeng, Negeri Sembilan",3,2.725,101.9375
+"Mojoagung, East Java",3,-7.5361,112.2384
+"Mampang Prapatan, Jakarta Raya",3,-6.2088,106.8456
+Maluku,3,-3.0,128.0
+Kalimantan Barat,3,-1.0,115.0
+"Kolaka, Southeast Sulawesi",3,-3.0,120.0
+"Bandar Saujana Putra, Selangor",3,3.075,101.525
+"Ciracas, Jakarta Raya",3,-6.2088,106.8456
+"Bogor Barat, Jawa Barat",3,-6.9175,107.6191
+"Cinangka, Banten",3,-6.12,106.1503
+"Permatang Tinggi, Penang",3,5.4141,100.3288
+"Jombang, Jawa Timur",3,-7.5361,112.2384
+"Central Karang, Banten",3,-6.12,106.1503
+"Penanti, Penang",3,5.4141,100.3288
+"Salatiga, Jawa Tengah",3,-7.15,110.1403
+"Tuban, Jawa Timur",3,-7.5361,112.2384
+"Prambon, East Java",3,-7.5361,112.2384
+"Citeureup, Jawa Barat",3,-6.9175,107.6191
+"Kediri, Jawa Timur",3,-7.5361,112.2384
+"Nganjuk, Jawa Timur",3,-7.5361,112.2384
+"Papar District, Sabah",3,5.9788,116.0753
+"Chukai, Terengganu",3,5.3303,103.1408
+"Carey Island, Selangor",3,3.075,101.525
+"Kintamani, Bali",3,-8.3405,115.092
+"Kemaman, Terengganu",3,5.3303,103.1408
+"Teluk Intan, Perak",3,4.5975,101.0901
+"Central Klaten, Central Java",3,-7.15,110.1403
+"Balong Bendo, East Java",3,-7.5361,112.2384
+"Bau, Sarawak",3,1.55,110.3333
+"Lembah Beringin, Selangor",3,3.075,101.525
+Sulawesi Barat,3,-3.0,120.0
+"West Ungaran, Central Java",3,-7.15,110.1403
+"Kovan, North-East Region",3,1.3521,103.8198
+"Seri Manjung, Perak",3,4.5975,101.0901
+"Setiabudi, Jakarta Raya",3,-6.2088,106.8456
+"Ogan Ilir, South Sumatra",3,-0.5,104.0
+"Cikarang Timur, Jawa Barat",3,-6.9175,107.6191
+"Senoko North, North Region",3,1.3521,103.8198
+"Kotamobagu, North Sulawesi",3,-3.0,120.0
+"Ponorogo Regency, East Java",3,-7.5361,112.2384
+"Alam Damai, Kuala Lumpur",3,3.139,101.6869
+"Sleman, DI Yogyakarta",3,-8.5,117.0
+"Mojosari, East Java",3,-7.5361,112.2384
+"Kuta Raja, Aceh",3,-0.5,104.0
+"Pandan Jaya, Selangor",3,3.075,101.525
+"Others, Negeri Sembilan",3,2.725,101.9375
+"Menglembu, Perak",3,4.5975,101.0901
+"Blitar Regency, East Java",3,-7.5361,112.2384
+"Semarang Tengah, Jawa Tengah",3,-7.15,110.1403
+"Megamendung, West Java",3,-6.9175,107.6191
+"Jementah, Johor",3,1.4927,103.7414
+"Paka, Terengganu",3,5.3303,103.1408
+"Hulu Selangor, Selangor",3,3.075,101.525
+"Others, North-East Region",3,1.3521,103.8198
+"Tanjung Karang Pusat, Lampung",3,-0.5,104.0
+"North Sangatta, East Kalimantan",3,-1.0,115.0
+"Surakarta, Jawa Tengah",3,-7.15,110.1403
+"Medan Petisah, North Sumatra",3,-0.5,104.0
+"Tanjung Balai, North Sumatra",3,-0.5,104.0
+"Luwu, South Sulawesi",3,-3.0,120.0
+"Pondokgede, West Java",3,-6.9175,107.6191
+"Kutai Kartanegara, East Kalimantan",3,-1.0,115.0
+"Anchorvale, North-East Region",3,1.3521,103.8198
+"Majalengka, Jawa Barat",3,-6.9175,107.6191
+"Cijeruk, West Java",2,-6.9175,107.6191
+"Bone, Sulawesi Selatan",2,-3.0,120.0
+"Pelalawan, Riau",2,,
+"Tukang, West Region",2,1.3521,103.8198
+"Bakauheni, Lampung",2,-0.5,104.0
+"Lubuk Basung, West Sumatra",2,-0.5,104.0
+"Central Bangka, Bangka Belitung",2,-2.1333,106.1333
+"Penebel, Bali",2,-8.3405,115.092
+"Kapuas Hulu, West Kalimantan",2,-1.0,115.0
+"Cecil, Central Region",2,1.3521,103.8198
+"Tanah Grogot, East Kalimantan",2,-1.0,115.0
+"Dang Wangi, Kuala Lumpur",2,3.139,101.6869
+"Parakan Salak, West Java",2,-6.9175,107.6191
+"Terbanggi Besar, Lampung",2,-0.5,104.0
+"Singosari, East Java",2,-7.5361,112.2384
+"Miri Division, Sarawak",2,1.55,110.3333
+"Muar District, Johor",2,1.4927,103.7414
+"Kandis, Riau",2,,
+"Sungai Lilin, South Sumatra",2,-0.5,104.0
+"South Solok, West Sumatra",2,-0.5,104.0
+"Buduran, East Java",2,-7.5361,112.2384
+"Menggatal, Sabah",2,5.9788,116.0753
+"Seri Iskandar, Perak",2,4.5975,101.0901
+"Periuk, Banten",2,-6.12,106.1503
+"Jaten, Central Java",2,-7.15,110.1403
+"Benowo, East Java",2,-7.5361,112.2384
+"North Palu, Central Sulawesi",2,-3.0,120.0
+"Semitau, West Kalimantan",2,-1.0,115.0
+"Manyar, East Java",2,-7.5361,112.2384
+"Medan Polonia, Sumatera Utara",2,-0.5,104.0
+"Kota Padawan, Sarawak",2,1.55,110.3333
+"Keningau, Sabah",2,5.9788,116.0753
+"Cheng, Melaka",2,2.1896,102.2501
+"Bandar Springhill, Negeri Sembilan",2,2.725,101.9375
+"Others, Johor",2,1.4927,103.7414
+"Tanjung Priok, Jakarta Raya",2,-6.2088,106.8456
+"Ketapang, Lampung",2,-0.5,104.0
+"Pantai Dalam, Kuala Lumpur",2,3.139,101.6869
+"Dukuh Pakis, Jawa Timur",2,-7.5361,112.2384
+"Bagan Sinembah, Riau",2,,
+"Balige, North Sumatra",2,-8.3405,115.092
+"Kediri Regency, East Java",2,-7.5361,112.2384
+"Nusa Bestari, Johor",2,1.4927,103.7414
+"Tanjung Kidurong, Sarawak",2,1.55,110.3333
+"Bandar Permas, Johor",2,1.4927,103.7414
+"Pelangi, Johor",2,1.4927,103.7414
+"Boat Quay, Central Region",2,1.3521,103.8198
+"Trenggalek, East Java",2,-7.5361,112.2384
+"Changlun, Kedah",2,6.12,100.37
+"Selama, Perak",2,4.5975,101.0901
+"Taman Desa Tebrau, Johor",2,1.4927,103.7414
+"Lubok China, Melaka",2,2.1896,102.2501
+"Weda, North Maluku",2,-3.0,128.0
+"North Minahasa, North Sulawesi",2,-3.0,120.0
+"Tana Tidung, North Kalimantan",2,-1.0,115.0
+"Bishan East, Central Region",2,1.3521,103.8198
+"Tanah Miring, South Papua",2,-4.0,137.0
+"Kota Atambua, East Nusa Tenggara",2,-8.5,117.0
+"Samarinda Ulu, East Kalimantan",2,-1.0,115.0
+"Kesamben, East Java",2,-7.5361,112.2384
+"Sukodono, East Java",2,-7.5361,112.2384
+"Tanjung Pinang City, Riau Islands",2,1.0,104.0
+"Simalungun, Sumatera Utara",2,-0.5,104.0
+"Telupid, Sabah",2,5.9788,116.0753
+"Kuala Kangsar, Perak",2,4.5975,101.0901
+"Jerteh, Terengganu",2,5.3303,103.1408
+Kalimantan Utara,2,-1.0,115.0
+"Cipeundeuy, West Java",2,-6.9175,107.6191
+"Padang Lawas, North Sumatra",2,-0.5,104.0
+"Gorontalo Regency, Gorontalo",2,0.7186,122.4475
+"Taman Daya, Johor",2,1.4927,103.7414
+"Bandar Baru Selayang, Selangor",2,3.075,101.525
+"Bandar Perda, Penang",2,5.4141,100.3288
+"Joo Seng, Central Region",2,1.3521,103.8198
+"Kabupaten Demak, Jawa Tengah",2,-7.15,110.1403
+"North Barito, Central Kalimantan",2,-1.0,115.0
+"Kuala Pilah, Negeri Sembilan",2,2.725,101.9375
+"Rembau, Negeri Sembilan",2,2.725,101.9375
+"Indragiri Hilir, Riau",2,,
+"Pulo Gadung, Jakarta Raya",2,-6.2088,106.8456
+"Betung, Sumatera Selatan",2,-0.5,104.0
+"Sungai Udang, Melaka",2,2.1896,102.2501
+"Others, Selangor",2,3.075,101.525
+"Teluk Gong, Selangor",2,3.075,101.525
+"Poso, Central Sulawesi",2,-3.0,120.0
+"Tanjung Morawa, Sumatera Utara",2,-0.5,104.0
+"Kebon Jeruk, Jakarta Raya",2,-6.2088,106.8456
+"Kuala Berang, Terengganu",2,5.3303,103.1408
+"Palu Selatan, Sulawesi Tengah",2,-3.0,120.0
+"Tapah, Perak",2,4.5975,101.0901
+"Balai Ringin, Sarawak",2,1.55,110.3333
+"Bukit Payong, Terengganu",2,5.3303,103.1408
+"North Purwokerto, Central Java",2,-7.15,110.1403
+"Mahakam Ulu, East Kalimantan",2,-1.0,115.0
+"Toba, West Kalimantan",2,-1.0,115.0
+"Cisarua, Jawa Barat",2,-6.9175,107.6191
+"Phillip, Central Region",2,1.3521,103.8198
+"Pagoh, Johor",2,1.4927,103.7414
+"Bestari Jaya, Selangor",2,3.075,101.525
+Papua Barat,2,-4.0,137.0
+"Banyuwangi, Jawa Timur",2,-7.5361,112.2384
+"Pandaan, Jawa Timur",2,-7.5361,112.2384
+"Pontianak Kota, Kalimantan Barat",2,-1.0,115.0
+"Bangkalan Regency, East Java",2,-7.5361,112.2384
+"Kasihan, Yogyakarta Special Region",2,-8.5,117.0
+"Lembang, West Java",2,-6.9175,107.6191
+"Sungai Way, Selangor",2,3.075,101.525
+"Cheras Batu 9, Selangor",2,3.075,101.525
+"Mojosari, Jawa Timur",2,-7.5361,112.2384
+"Kabupaten Karanganyar, Jawa Tengah",2,-7.15,110.1403
+"Jember, Jawa Timur",2,-7.5361,112.2384
+"Batang, Jawa Tengah",2,-7.15,110.1403
+"Gambir, Jakarta Raya",2,-6.2088,106.8456
+"Pangandaran, Jawa Barat",2,-6.9175,107.6191
+"Padang Pariaman, West Sumatra",2,-0.5,104.0
+"Plered, West Java",2,-6.9175,107.6191
+"South Tapanuli, North Sumatra",2,-0.5,104.0
+"South Tanjung Balai, North Sumatra",2,-0.5,104.0
+"Batu Bara, North Sumatra",2,-0.5,104.0
+"Kudus Kota, Jawa Tengah",2,-7.15,110.1403
+"Karo, North Sumatra",2,-0.5,104.0
+"South Hulu Sungai, South Kalimantan",2,-1.0,115.0
+"Subang, Jawa Barat",2,-6.9175,107.6191
+"Valdor, Penang",2,5.4141,100.3288
+"Karangan, Kedah",2,6.12,100.37
+"Banjarbaru, Kalimantan Selatan",2,-1.0,115.0
+"Cibinong, Jawa Barat",2,-6.9175,107.6191
+"Kubang Pasu, Kedah",2,6.12,100.37
+"Paya Rumput, Melaka",2,2.1896,102.2501
+"Sarikei, Sarawak",2,1.55,110.3333
+"Central Praya, West Nusa Tenggara",2,-8.5,117.0
+"Jabung, Lampung",2,-0.5,104.0
+"South Seribu Islands, Jakarta",2,-6.2088,106.8456
+"Medan Marelan, North Sumatra",2,-0.5,104.0
+"Sri Aman Division, Sarawak",2,1.55,110.3333
+"East Ungaran, Central Java",2,-7.15,110.1403
+"Likas, Sabah",2,5.9788,116.0753
+"Kabupaten Kendal, Jawa Tengah",2,-7.15,110.1403
+"Karangmalang, Central Java",2,-7.15,110.1403
+"Gerik, Perak",2,4.5975,101.0901
+"Kundasang, Sabah",2,5.9788,116.0753
+"Sepanggar, Sabah",2,5.9788,116.0753
+"Simpang Pulai, Perak",2,4.5975,101.0901
+"Mandai East, North Region",2,1.3521,103.8198
+"East Taliabu, North Maluku",2,-3.0,128.0
+"Sembawang North, North Region",2,1.3521,103.8198
+"Ulu Pandan, Central Region",2,1.3521,103.8198
+"Tenjo, Jawa Barat",2,-6.9175,107.6191
+"Galang, North Sumatra",2,-0.5,104.0
+"Ijok, Selangor",2,3.075,101.525
+"Bukit Tengah, Penang",2,5.4141,100.3288
+"Jerantut, Pahang",2,3.8,103.0833
+"Kota Warisan, Selangor",2,3.075,101.525
+"Kinta District, Perak",2,4.5975,101.0901
+"Karawang Barat, Jawa Barat",2,-6.9175,107.6191
+"Gunung Sindur, Jawa Barat",2,-6.9175,107.6191
+"Balige, Sumatera Utara",2,-8.3405,115.092
+"Ngawi Regency, East Java",2,-7.5361,112.2384
+"Sindang Jaya, Banten",2,-6.12,106.1503
+"Medan Area, North Sumatra",2,-0.5,104.0
+"Pasarrebo, Jakarta",2,-6.2088,106.8456
+"Tanah Laut, South Kalimantan",2,-1.0,115.0
+"Bangko, Jambi",2,-0.5,104.0
+"Arjawinangun, West Java",2,-6.9175,107.6191
+"Maros, South Sulawesi",2,-3.0,120.0
+"Central Bogor, West Java",2,-6.9175,107.6191
+"West Manggarai, East Nusa Tenggara",2,-8.5,117.0
+"Langsa, Aceh",2,-0.5,104.0
+"Mimika, Central Papua",2,-4.0,137.0
+"Rokan Hilir, Riau",2,,
+"Johol, Negeri Sembilan",2,2.725,101.9375
+"Kinabatangan District, Sabah",2,5.9788,116.0753
+"Tasek Gelugor, Penang",2,5.4141,100.3288
+"Taman Merdeka Permai, Melaka",2,2.1896,102.2501
+"Sengkang West, North-East Region",2,1.3521,103.8198
+"Clementi West, West Region",2,1.3521,103.8198
+"Tuas North, West Region",2,1.3521,103.8198
+"Lorong 8 Toa Payoh, Central Region",2,1.3521,103.8198
+"North-Eastern Islands, North-East Region",2,1.3521,103.8198
+"Paya Lebar North, East Region",2,1.3521,103.8198
+"Sembawang East, North Region",2,1.3521,103.8198
+"Tampines West, East Region",2,1.3521,103.8198
+"Jurong West Central, West Region",2,1.3521,103.8198
+"Rasa, Selangor",2,3.075,101.525
+"Kragilan, Banten",2,-6.12,106.1503
+"Pare, East Java",2,-7.5361,112.2384
+Sulawesi Tengah,2,-3.0,120.0
+"Bengalon, East Kalimantan",2,-1.0,115.0
+"West Purwokerto, Central Java",2,-7.15,110.1403
+"Mulyorejo, East Java",2,-7.5361,112.2384
+"Garut Kota, West Java",2,-6.9175,107.6191
+"Pujut, West Nusa Tenggara",2,-8.5,117.0
+"Kulon Progo, Yogyakarta Special Region",2,-8.5,117.0
+"Ghim Moh, Central Region",2,1.3521,103.8198
+"China Square, Central Region",2,1.3521,103.8198
+"International Business Park, West Region",2,1.3521,103.8198
+"Hougang Central, North-East Region",2,1.3521,103.8198
+"Pasir Ris Central, East Region",2,1.3521,103.8198
+"Yishun West, North Region",2,1.3521,103.8198
+"Tempel, Yogyakarta Special Region",2,-8.5,117.0
+"Boyolali, Jawa Tengah",2,-7.15,110.1403
+"North Gorontalo, Gorontalo",2,0.7186,122.4475
+"Bagan Serai, Perak",2,4.5975,101.0901
+"East Halmahera, North Maluku",2,-3.0,128.0
+"Wonogiri Regency, Central Java",2,-7.15,110.1403
+"Merawang, Bangka Belitung",2,-2.1333,106.1333
+"West Padang, West Sumatra",2,-0.5,104.0
+"Tegal Regency, Central Java",2,-7.15,110.1403
+"Polokarto, Central Java",2,-7.15,110.1403
+"Kuala Kencana, Central Papua",2,-4.0,137.0
+"Kediri, Bali",2,-8.3405,115.092
+"Betong, Sarawak",2,1.55,110.3333
+"Karawang Timur, Jawa Barat",2,-6.9175,107.6191
+"Segamat, Johor",2,1.4927,103.7414
+"Gempol, Jawa Timur",2,-7.5361,112.2384
+"Boven Digoel, Papua Selatan",2,-4.0,137.0
+"Wasile, Maluku Utara",2,-3.0,128.0
+"Selandar, Melaka",2,2.1896,102.2501
+"Pandan Perdana, Kuala Lumpur",2,3.139,101.6869
+"Kepulauan Seribu, Jakarta",2,-6.2088,106.8456
+"South Dumai, Riau",2,,
+"Blora, Central Java",2,-7.15,110.1403
+"East Lombok, West Nusa Tenggara",2,-8.5,117.0
+"Kotabaru, South Kalimantan",2,-1.0,115.0
+"Tambelang, West Java",2,-6.9175,107.6191
+North Maluku,2,-3.0,128.0
+"Arcamanik, West Java",2,-6.9175,107.6191
+"Babakan Madang, West Java",2,-6.9175,107.6191
+"Tulis, Central Java",2,-7.15,110.1403
+"Banyumanik, Central Java",2,-7.15,110.1403
+"Banjaran, West Java",2,-6.9175,107.6191
+"Sorong Town, West Papua",2,-4.0,137.0
+"East Luwu, South Sulawesi",2,-3.0,120.0
+"Katapang, West Java",2,-6.9175,107.6191
+"Purworejo Regency, Central Java",2,-7.15,110.1403
+"Pamekasan Regency, East Java",2,-7.5361,112.2384
+"Tenjo, West Java",2,-6.9175,107.6191
+"Taman Melati, Kuala Lumpur",2,3.139,101.6869
+"Sungai Nibong, Penang",2,5.4141,100.3288
+"Marang District, Terengganu",2,5.3303,103.1408
+"Parung, West Java",2,-6.9175,107.6191
+"Obi, North Maluku",2,-3.0,128.0
+"Bayung Lencir, South Sumatra",2,-0.5,104.0
+"South Barito, Central Kalimantan",2,-1.0,115.0
+"Matraman, Jakarta",2,-6.2088,106.8456
+"Dharmasraya, West Sumatra",2,-0.5,104.0
+"South Cimahi, West Java",2,-6.9175,107.6191
+"Sumbawa Regency, West Nusa Tenggara",2,-8.5,117.0
+"Masaran, Central Java",2,-7.15,110.1403
+"Bagan Ajam, Penang",2,5.4141,100.3288
+"Medan Labuhan, North Sumatra",2,-0.5,104.0
+"Bagan Datuk, Perak",2,4.5975,101.0901
+"Gowa, South Sulawesi",2,-3.0,120.0
+"Banyudono, Central Java",2,-7.15,110.1403
+"Jatinangor, West Java",2,-6.9175,107.6191
+"Medan Maimun, North Sumatra",2,-0.5,104.0
+"Central Katingan, Central Kalimantan",1,-1.0,115.0
+"Bukit Tinggi, Pahang",1,3.8,103.0833
+"Siburan, Sarawak",1,1.55,110.3333
+"Fernvale, North-East Region",1,1.3521,103.8198
+"Badas, East Java",1,-7.5361,112.2384
+"Muko Muko, Bengkulu",1,-0.5,104.0
+"Kallang Bahru, Central Region",1,1.3521,103.8198
+"Indralaya, South Sumatra",1,-0.5,104.0
+"Patumbak, North Sumatra",1,-0.5,104.0
+"Merangin, Jambi",1,-0.5,104.0
+"Pacitan, East Java",1,-7.5361,112.2384
+"Tabang, East Kalimantan",1,-1.0,115.0
+"East Telukjambe, West Java",1,-6.9175,107.6191
+"Pakal, East Java",1,-7.5361,112.2384
+"Banjar, South Kalimantan",1,-1.0,115.0
+"Sei Rampah, North Sumatra",1,-0.5,104.0
+"Raya, North Sumatra",1,-0.5,104.0
+"Townsville, North-East Region",1,1.3521,103.8198
+"Airport Road, East Region",1,1.3521,103.8198
+"Pasir Ris Drive, East Region",1,1.3521,103.8198
+"Choa Chu Kang North, West Region",1,1.3521,103.8198
+"Putatan District, Sabah",1,5.9788,116.0753
+"Tegallalang, Bali",1,-8.3405,115.092
+"Luwuk, Sulawesi Tengah",1,-3.0,120.0
+"Poncokusumo, East Java",1,-7.5361,112.2384
+"Kenjeran, East Java",1,-7.5361,112.2384
+"Sunggal, North Sumatra",1,-0.5,104.0
+"Ngariboyo, Jawa Timur",1,-7.5361,112.2384
+"Ngawi, Jawa Timur",1,-7.5361,112.2384
+"Temanggung, Jawa Tengah",1,-7.15,110.1403
+"Karangkobar, Jawa Tengah",1,-7.15,110.1403
+"Cikajang, Jawa Barat",1,-6.9175,107.6191
+"Ciamis, Jawa Barat",1,-6.9175,107.6191
+"Seruyan, Central Kalimantan",1,-1.0,115.0
+"Seri Menanti, Negeri Sembilan",1,2.725,101.9375
+"Sikamat, Negeri Sembilan",1,2.725,101.9375
+"Belaga, Sarawak",1,1.55,110.3333
+"Alam Impian, Selangor",1,3.075,101.525
+"Sei Balai, Sumatera Utara",1,-0.5,104.0
+"Cilodong, Jawa Barat",1,-6.9175,107.6191
+"Anyar, Banten",1,-6.12,106.1503
+"Balok, Pahang",1,3.8,103.0833
+"Margomulyo, Jawa Timur",1,-7.5361,112.2384
+"Klaten, Jawa Tengah",1,-7.15,110.1403
+"Palangkaraya, Kalimantan Tengah",1,-1.0,115.0
+"Maduran, Jawa Timur",1,-7.5361,112.2384
+"Barabai, Kalimantan Selatan",1,-1.0,115.0
+"Cilodong, West Java",1,-6.9175,107.6191
+"Dramaga, West Java",1,-6.9175,107.6191
+"Sape, West Nusa Tenggara",1,-8.5,117.0
+"Dawar Blandong, East Java",1,-7.5361,112.2384
+"East Batu Raja, South Sumatra",1,-0.5,104.0
+"North Halmahera, North Maluku",1,-3.0,128.0
+"Pedurungan, Central Java",1,-7.15,110.1403
+"Jonggol, Jawa Barat",1,-6.9175,107.6191
+"Distrik Sorong, Papua Barat",1,-4.0,137.0
+"Padalarang, Jawa Barat",1,-6.9175,107.6191
+"Nabire, Papua Tengah",1,-4.0,137.0
+"Sampang, East Java",1,-7.5361,112.2384
+Nusa Tenggara Timur,1,-8.5,117.0
+"Tebet, Jakarta Raya",1,-6.2088,106.8456
+"Angsana, Kalimantan Selatan",1,-1.0,115.0
+"Bau Bau, Sulawesi Tenggara",1,-3.0,120.0
+"Tanjung Pinang Kota, Kepulauan Riau",1,1.0,104.0
+"Halmahera Timur, Maluku Utara",1,-3.0,128.0
+"Banyumas, Jawa Tengah",1,-7.15,110.1403
+"Payakumbuh, Sumatera Barat",1,-0.5,104.0
+"Magetan, Jawa Timur",1,-7.5361,112.2384
+"Sampang, Jawa Timur",1,-7.5361,112.2384
+"Serkam, Melaka",1,2.1896,102.2501
+"Ketapang, Jawa Timur",1,-7.5361,112.2384
+"Mentawa Baru Ketapang, Central Kalimantan",1,-1.0,115.0
+"Cibarusah, West Java",1,-6.9175,107.6191
+"Johan Pahlawan, Aceh",1,-0.5,104.0
+"Ungaran, Central Java",1,-7.15,110.1403
+"Ende, East Nusa Tenggara",1,-8.5,117.0
+"Kalasan, DI Yogyakarta",1,-8.5,117.0
+"Happy Garden, Kuala Lumpur",1,3.139,101.6869
+"Bekasi Selatan, Jawa Barat",1,-6.9175,107.6191
+Kepulauan Riau,1,1.0,104.0
+"Saleng, Johor",1,1.4927,103.7414
+"Temoh, Perak",1,4.5975,101.0901
+"Taman Melodies, Johor",1,1.4927,103.7414
+"Bundusan, Sabah",1,5.9788,116.0753
+"Sri Gombak, Selangor",1,3.075,101.525
+"Majalaya, Jawa Barat",1,-6.9175,107.6191
+"Pantai Remis, Perak",1,4.5975,101.0901
+"Kendari, Sulawesi Tenggara",1,-3.0,120.0
+"Limo, Jawa Barat",1,-6.9175,107.6191
+"Payakumbuh City, West Sumatra",1,-0.5,104.0
+"Muntilan, Central Java",1,-7.15,110.1403
+"Konawe Utara, Sulawesi Tenggara",1,-3.0,120.0
+"Pujut, Nusa Tenggara Barat",1,-8.5,117.0
+"Ternate Island, North Maluku",1,-3.0,128.0
+"Mentawai Islands, West Sumatra",1,-0.5,104.0
+"Soreang, West Java",1,-6.9175,107.6191
+"Muna, Southeast Sulawesi",1,-3.0,120.0
+"Durian Tunggal, Melaka",1,2.1896,102.2501
+"Hutan Melintang, Perak",1,4.5975,101.0901
+"Others, Sabah",1,5.9788,116.0753
+"Kuala Lipis, Pahang",1,3.8,103.0833
+"Andir, West Java",1,-6.9175,107.6191
+"Kotawaringin Timur, Kalimantan Tengah",1,-1.0,115.0
+"Bawen, Jawa Tengah",1,-7.15,110.1403
+"Dompu, West Nusa Tenggara",1,-8.5,117.0
+"East Ogan Komering Ulu, South Sumatra",1,-0.5,104.0
+"Lambandia, Southeast Sulawesi",1,-3.0,120.0
+"Kabupaten Pasangkayu, Sulawesi Barat",1,-3.0,120.0
+"Sragen, Jawa Tengah",1,-7.15,110.1403
+"Lombok Utara, Nusa Tenggara Barat",1,-8.5,117.0
+"Ngoro, Jawa Timur",1,-7.5361,112.2384
+"Lembah Keramat, Kuala Lumpur",1,3.139,101.6869
+"Kota Belud District, Sabah",1,5.9788,116.0753
+"Kuala Kedah, Kedah",1,6.12,100.37
+"Bengkayang Regency, West Kalimantan",1,-1.0,115.0
+"Tual, Maluku",1,-3.0,128.0
+"Central Teweh, Central Kalimantan",1,-1.0,115.0
+"Melak, East Kalimantan",1,-1.0,115.0
+"Rajabasa, Lampung",1,-0.5,104.0
+"Bekasi Timur, Jawa Barat",1,-6.9175,107.6191
+Maluku Utara,1,-3.0,128.0
+"Polewali, Sulawesi Barat",1,-3.0,120.0
+"Kolaka, Sulawesi Tenggara",1,-3.0,120.0
+"Simpang Pertang, Negeri Sembilan",1,2.725,101.9375
+"Kuala Baram, Sarawak",1,1.55,110.3333
+"Tarumajaya, Jawa Barat",1,-6.9175,107.6191
+"Purwokerto Timur, Jawa Tengah",1,-7.15,110.1403
+"Grobogan, Jawa Tengah",1,-7.15,110.1403
+"Penjaringan, Jakarta Raya",1,-6.2088,106.8456
+"Kalijati, Jawa Barat",1,-6.9175,107.6191
+"Damansara Aliff, Johor",1,1.4927,103.7414
+"Sluke, Central Java",1,-7.15,110.1403
+"Kebomas, East Java",1,-7.5361,112.2384
+"Natal, North Sumatra",1,-0.5,104.0
+"Matraman, Jakarta Raya",1,-6.2088,106.8456
+"West Pontianak, West Kalimantan",1,-1.0,115.0
+"Limo, West Java",1,-6.9175,107.6191
+"Mranggen, Central Java",1,-7.15,110.1403
+"Sukomoro, East Java",1,-7.5361,112.2384
+"Jawilan, Banten",1,-6.12,106.1503
+West Sulawesi,1,-3.0,120.0
+"South Labuhanbatu, North Sumatra",1,-0.5,104.0
+"Gunungsitoli, North Sumatra",1,-0.5,104.0
+"Tana Toraja, South Sulawesi",1,-3.0,120.0
+"Kampung Sungai Penchala, Kuala Lumpur",1,3.139,101.6869
+"Sook, Sabah",1,5.9788,116.0753
+"Air Lanas, Kelantan",1,6.1236,102.2431
+"Paya Terubong, Penang",1,5.4141,100.3288
+"Desa Petaling, Kuala Lumpur",1,3.139,101.6869
+"Sewon, Yogyakarta Special Region",1,-8.5,117.0
+"Muara Bulian, Jambi",1,-0.5,104.0
+"Sukarame, Lampung",1,-0.5,104.0
+"Ciomas, West Java",1,-6.9175,107.6191
+"Wirobrajan, Yogyakarta Special Region",1,-8.5,117.0
+"Kabupaten Pasuruan, Jawa Timur",1,-7.5361,112.2384
+"Balong Bendo, Jawa Timur",1,-7.5361,112.2384
+"Gowa, Sulawesi Selatan",1,-3.0,120.0
+"Museum, Central Region",1,1.3521,103.8198
+"North Seberang Perai, Penang",1,5.4141,100.3288
+"Gerisek, Johor",1,1.4927,103.7414
+"Seremban District, Negeri Sembilan",1,2.725,101.9375
+"Titiwangsa, Kuala Lumpur",1,3.139,101.6869
+"Bandar Penawar, Johor",1,1.4927,103.7414
+"Kangkar Tebrau, Johor",1,1.4927,103.7414
+"Tanah Merah, Kelantan",1,6.1236,102.2431
+"Asem Rowo, Jawa Timur",1,-7.5361,112.2384
+"Lim Chu Kang, North Region",1,1.3521,103.8198
+"Mundu, West Java",1,-6.9175,107.6191
+"East Semarang, Central Java",1,-7.15,110.1403
+"Bayshore, East Region",1,1.3521,103.8198
+"Bantul, DI Yogyakarta",1,-8.5,117.0
+"Widasari, West Java",1,-6.9175,107.6191
+"Pasir Tumboh, Kelantan",1,6.1236,102.2431
+"Sekinchan, Selangor",1,3.075,101.525
+"Bandar Tun Razak, Kuala Lumpur",1,3.139,101.6869
+"Jinjang Utara, Kuala Lumpur",1,3.139,101.6869
+"Gombak, West Region",1,1.3521,103.8198
+"Rochor Canal, Central Region",1,1.3521,103.8198
+"Marau, West Kalimantan",1,-1.0,115.0
+"West Singkawang, West Kalimantan",1,-1.0,115.0
+"Rawalumbu, West Java",1,-6.9175,107.6191
+"Purwodadi, East Java",1,-7.5361,112.2384
+"Biak Kota, Papua",1,-4.0,137.0
+"East Medan, North Sumatra",1,-0.5,104.0
+"Medan Tembung, North Sumatra",1,-0.5,104.0
+"Sukasari, West Java",1,-6.9175,107.6191
+"Prambanan, Yogyakarta Special Region",1,-8.5,117.0
+"Ogan Komering Ulu, South Sumatra",1,-0.5,104.0
+"Medan Johor, North Sumatra",1,-0.5,104.0
+"Medan Satria, West Java",1,-6.9175,107.6191
+"Nguter, Central Java",1,-7.15,110.1403
+"Kangar, Perlis",1,6.4395,100.1983
+"Slim River, Perak",1,4.5975,101.0901
+"Hilir Perak District, Perak",1,4.5975,101.0901
+"Tenggarong, East Kalimantan",1,-1.0,115.0
+"Bulukumba, South Sulawesi",1,-3.0,120.0
+"Senja, West Region",1,1.3521,103.8198
+"Mount Pleasant, Central Region",1,1.3521,103.8198
+"Serdang Bedagai, North Sumatra",1,-0.5,104.0
+"Namo Rambe, North Sumatra",1,-0.5,104.0
+"Biak Numfor, Papua",1,-4.0,137.0
+"Kutai Barat, Kalimantan Timur",1,-1.0,115.0
+"Garut, Jawa Barat",1,-6.9175,107.6191
+"Samarinda Kota, Kalimantan Timur",1,-1.0,115.0
+"Pemalang, Jawa Tengah",1,-7.15,110.1403
+"Cipeundeuy, Jawa Barat",1,-6.9175,107.6191
+"Trenggalek, Jawa Timur",1,-7.5361,112.2384
+"Tegalsari, Jawa Timur",1,-7.5361,112.2384
+"Perhentian Islands, Terengganu",1,5.3303,103.1408
+"Bera, Pahang",1,3.8,103.0833
+"Northeast Penang Island District, Penang",1,5.4141,100.3288
+"South Semarang, Central Java",1,-7.15,110.1403
+"Galesong, South Sulawesi",1,-3.0,120.0
+"Cimaung, West Java",1,-6.9175,107.6191
+"Sayung, Jawa Tengah",1,-7.15,110.1403
+"Ketapang, Kalimantan Barat",1,-1.0,115.0
+"Prabumulih, Sumatera Selatan",1,-0.5,104.0
+"Kubang Semang, Penang",1,5.4141,100.3288
+"Kulim District, Kedah",1,6.12,100.37
+"Tuaran District, Sabah",1,5.9788,116.0753
+"Puchong Perdana, Selangor",1,3.075,101.525
+"Kotabaru, Kalimantan Selatan",1,-1.0,115.0
+"Kabupaten Purwakarta, Jawa Barat",1,-6.9175,107.6191
+"Jatiroto, Jawa Timur",1,-7.5361,112.2384
+"Probolinggo, Jawa Timur",1,-7.5361,112.2384
+"Duren Sawit, Jakarta Raya",1,-6.2088,106.8456
+"Bekasi Utara, Jawa Barat",1,-6.9175,107.6191
+"Tidore Kepulauan, Maluku Utara",1,-3.0,128.0
+"Kaur, Bengkulu",1,-0.5,104.0
+"Polewali Mandar, West Sulawesi",1,-3.0,120.0
+"Driyorejo, Jawa Timur",1,-7.5361,112.2384
+"Purbalingga, Jawa Tengah",1,-7.15,110.1403
+"Kabupaten Bogor, Jawa Barat",1,-6.9175,107.6191
+"Pasar Minggu, Jakarta Raya",1,-6.2088,106.8456
+"North Tarakan, North Kalimantan",1,-1.0,115.0
+"Gunung Kidul, Yogyakarta Special Region",1,-8.5,117.0
+"West Pasaman, West Sumatra",1,-0.5,104.0
+"Taman Puteri Wangsa, Johor",1,1.4927,103.7414
+"Taman Suria, Johor",1,1.4927,103.7414
+"Cherating, Pahang",1,3.8,103.0833
+"Bandar Tasik Puteri, Selangor",1,3.075,101.525
+"Kapit, Sarawak",1,1.55,110.3333
+"Limbang, Sarawak",1,1.55,110.3333
+"Bandar Putra Kulai, Johor",1,1.4927,103.7414
+"Kundang, Selangor",1,3.075,101.525
+"Ogan Komering Ilir, Sumatera Selatan",1,-0.5,104.0
+"Buduran, Jawa Timur",1,-7.5361,112.2384
+"Sumba Timur, Nusa Tenggara Timur",1,-8.5,117.0
+"Tarakan, Kalimantan Utara",1,-1.0,115.0
+"Kabupaten Batang, Jawa Tengah",1,-7.15,110.1403
+"Song, Sarawak",1,1.55,110.3333
+"Tenom District, Sabah",1,5.9788,116.0753
+"Tongkang Pechah, Johor",1,1.4927,103.7414
+"Pasir Puteh, Kelantan",1,6.1236,102.2431
+"Stulang, Johor",1,1.4927,103.7414
+"North Semarang, Central Java",1,-7.15,110.1403
+"Tegalrejo, Yogyakarta Special Region",1,-8.5,117.0
+"Deli Serdang, Sumatera Utara",1,-0.5,104.0
+"Balikpapan Kota, Kalimantan Timur",1,-8.3405,115.092
+"South Teluk Betung, Lampung",1,-0.5,104.0
+"Manokwari, Papua Barat",1,-4.0,137.0
+"Klapanunggal, Jawa Barat",1,-6.9175,107.6191
+"Tebo, Jambi",1,-0.5,104.0
+"Ponggok, East Java",1,-7.5361,112.2384
+"Indragiri Hulu, Riau",1,,
+"Pangkalan Kerinci, Riau",1,,
+"Pasaman, West Sumatra",1,-0.5,104.0
+"Kuala Krau, Pahang",1,3.8,103.0833
+"Bandar Baru Ampang, Selangor",1,3.075,101.525
+"Bukit Rimau, Selangor",1,3.075,101.525
+"Balai Panjang, Melaka",1,2.1896,102.2501
+"South Seberang Perai, Penang",1,5.4141,100.3288
+"Medini, Johor",1,1.4927,103.7414
+"Ayer Tawar, Perak",1,4.5975,101.0901
+"Taman Gaya, Johor",1,1.4927,103.7414
+"Lok Kawi, Sabah",1,5.9788,116.0753
+"Gedangan, Jawa Timur",1,-7.5361,112.2384
+"Paser, Kalimantan Timur",1,-1.0,115.0
+"Lhoknga, Aceh",1,-0.5,104.0
+"Luwu Timur, Sulawesi Selatan",1,-3.0,120.0
+"Cikancung, Jawa Barat",1,-6.9175,107.6191
+"Masjid Tanah, Melaka",1,2.1896,102.2501
+"Teluk Bahang, Penang",1,5.4141,100.3288
+"Tikam Batu, Kedah",1,6.12,100.37
+"Selesa Jaya, Johor",1,1.4927,103.7414
+"Rompin, Pahang",1,3.8,103.0833
+"Lundu, Sarawak",1,1.55,110.3333
+"Kuala Kubu Baharu, Selangor",1,3.075,101.525
+"Mukah, Sarawak",1,1.55,110.3333
+"Kepayan, Sabah",1,5.9788,116.0753
+"Kuala Linggi, Melaka",1,2.1896,102.2501
+"Bachang, Melaka",1,2.1896,102.2501
+"Telukjambe Barat, Jawa Barat",1,-6.9175,107.6191
+"West Lampung, Lampung",1,-0.5,104.0
+"Lake Fields, Kuala Lumpur",1,3.139,101.6869
+"Pandan, Johor",1,1.4927,103.7414
+"Mantin, Negeri Sembilan",1,2.725,101.9375
+"Puteri Harbour, Johor",1,1.4927,103.7414
+"Hulu Langat, Selangor",1,3.075,101.525
+"Kerian District, Perak",1,4.5975,101.0901
+"Sungai Pelek, Selangor",1,3.075,101.525
+"Wangsa Melawati, Kuala Lumpur",1,3.139,101.6869
+"Bukit Kayu Hitam, Kedah",1,6.12,100.37
+"Sik, Kedah",1,6.12,100.37
+"Luwuk, Central Sulawesi",1,-3.0,120.0
+"Sumbawa Besar, West Nusa Tenggara",1,-8.5,117.0
+"Maja, Banten",1,-6.12,106.1503
+"Berau, Kalimantan Timur",1,-1.0,115.0
+"Kabupaten Kupang, Nusa Tenggara Timur",1,-8.5,117.0
+"North Jayapura, Papua",1,-4.0,137.0
+"Taman Danau Desa, Kuala Lumpur",1,3.139,101.6869
+"Kuala Langat, Selangor",1,3.075,101.525
+"Kampung Baru, Kuala Lumpur",1,3.139,101.6869
+"Tapah Road, Perak",1,4.5975,101.0901
+"Melaka Raya, Melaka",1,2.1896,102.2501
+"Perling, Johor",1,1.4927,103.7414
+"Tambun, Perak",1,4.5975,101.0901
+"Seri Alam, Johor",1,1.4927,103.7414
+"Teluk Cempedak, Pahang",1,3.8,103.0833
+"Kuala Nerang, Kedah",1,6.12,100.37
+"Gunung Rapat, Perak",1,4.5975,101.0901
+"Daro, Sarawak",1,1.55,110.3333
+"Kepala Batas, Kedah",1,6.12,100.37
+"Kuala Sungai Baru, Melaka",1,2.1896,102.2501
+"Taman Pelangi Indah, Johor",1,1.4927,103.7414
+"Tioman Island, Pahang",1,3.8,103.0833
+"Pahandut, Kalimantan Tengah",1,-1.0,115.0
+"Tobelo, Maluku Utara",1,-3.0,128.0
+"South Tambun, West Java",1,-6.9175,107.6191
+"West Balikpapan, East Kalimantan",1,-8.3405,115.092
+"Central Seruyan, Central Kalimantan",1,-1.0,115.0
+"West Sorong, West Papua",1,-4.0,137.0
+"Setu, Banten",1,-6.12,106.1503
+"Tobelo, North Maluku",1,-3.0,128.0
+"East Pekalongan, Central Java",1,-7.15,110.1403
+"Payakumbuh, West Sumatra",1,-0.5,104.0
+"Sibu Division, Sarawak",1,1.55,110.3333
+"Gambang, Pahang",1,3.8,103.0833
+"Bukit Jambul, Penang",1,5.4141,100.3288
+"Taman Sentosa, Johor",1,1.4927,103.7414
+"Bandar Damai Perdana, Selangor",1,3.075,101.525
+"Pedas, Negeri Sembilan",1,2.725,101.9375
+"Nunukan, North Kalimantan",1,-1.0,115.0
+"Mayong, Central Java",1,-7.15,110.1403
+"Dukuhwaru, Central Java",1,-7.15,110.1403
+"Sawahan, East Java",1,-7.5361,112.2384
+"Gamping, Yogyakarta Special Region",1,-8.5,117.0
+"Sukawati, Bali",1,-8.3405,115.092
+"Bangkalan, Jawa Timur",1,-7.5361,112.2384
+"Kudus, Jawa Tengah",1,-7.15,110.1403
+"Wonokromo, Jawa Timur",1,-7.5361,112.2384
+"Takalar, Sulawesi Selatan",1,-3.0,120.0
+"Komodo, Nusa Tenggara Timur",1,-8.5,117.0
+"Toa Payoh Central, Central Region",1,1.3521,103.8198
+"Western Water Catchment, West Region",1,1.3521,103.8198
+"Marina East (Marina Parade), Central Region",1,1.3521,103.8198
+"Cimahi, Jawa Barat",1,-6.9175,107.6191
+"Cikampek, Jawa Barat",1,-6.9175,107.6191
+"Woodlands South, North Region",1,1.3521,103.8198
+"Pearl's Hill, Central Region",1,1.3521,103.8198
+"Clementi North, West Region",1,1.3521,103.8198
+"Kuningan Regency, West Java",1,-6.9175,107.6191
+"Belu, East Nusa Tenggara",1,-8.5,117.0
+"West Pekalongan, Central Java",1,-7.15,110.1403
+"Pegasing, Aceh",1,-0.5,104.0
+"Bandung Kulon, West Java",1,-6.9175,107.6191
+"Sekupang, Riau Islands",1,1.0,104.0
+"Panyileukan, West Java",1,-6.9175,107.6191
+"Manuhing, Central Kalimantan",1,-1.0,115.0
+"Panakkukang, South Sulawesi",1,-3.0,120.0
+"Katingan Regency, Central Kalimantan",1,-1.0,115.0
+"Sekadau, West Kalimantan",1,-1.0,115.0
+"Melawi, West Kalimantan",1,-1.0,115.0
+"Tapin, South Kalimantan",1,-1.0,115.0
+"Pekalongan, Lampung",1,-0.5,104.0
+"Bandar Sribhawono, Lampung",1,-0.5,104.0
+"Tanjung Selor, North Kalimantan",1,-1.0,115.0
+"Leles, West Java",1,-6.9175,107.6191
+"Gubeng, East Java",1,-7.5361,112.2384
+"Bungo, Jambi",1,-0.5,104.0
+"Wasile, North Maluku",1,-3.0,128.0
+"Mamuju, West Sulawesi",1,-3.0,120.0
+"Sabang, Aceh",1,-0.5,104.0
+"Bojong Gede, West Java",1,-6.9175,107.6191
+"Sikka, East Nusa Tenggara",1,-8.5,117.0
+"Dawe, Central Java",1,-7.15,110.1403
+"Guntur, Central Java",1,-7.15,110.1403
+"Kartoharjo, East Java",1,-7.5361,112.2384
+"Margaret Drive, Central Region",1,1.3521,103.8198
+"Pasir Ris West, East Region",1,1.3521,103.8198
+"Banjar, Bali",1,-8.3405,115.092
+"Cikole, West Java",1,-6.9175,107.6191
+"North Lampung, Lampung",1,-0.5,104.0
+"Plumbon, West Java",1,-6.9175,107.6191
+"Pabuaran, West Java",1,-6.9175,107.6191
+"Kotagede, Yogyakarta Special Region",1,-8.5,117.0
+"Pangenan, West Java",1,-6.9175,107.6191
+"Tomohon, North Sulawesi",1,-3.0,120.0
+"Bumiayu, Central Java",1,-7.15,110.1403
+"Angsana, South Kalimantan",1,-1.0,115.0
+"Jebres, Central Java",1,-7.15,110.1403
+"North Ternate, North Maluku",1,-3.0,128.0
+"Sayung, Central Java",1,-7.15,110.1403
+"Binangun, East Java",1,-7.5361,112.2384
+"Wringin Anom, East Java",1,-7.5361,112.2384
+"North Rantau, North Sumatra",1,-0.5,104.0
+"Saguling, West Java",1,-6.9175,107.6191
+"North Tambun, West Java",1,-6.9175,107.6191
+"Laweyan, Central Java",1,-7.15,110.1403
+"Sokaraja, Central Java",1,-7.15,110.1403
+"Sidayu, East Java",1,-7.5361,112.2384
+"Raja Ampat, West Papua",1,-4.0,137.0
+"Bandung Wetan, West Java",1,-6.9175,107.6191
+"Cibitung, Banten",1,-6.12,106.1503
+"Kedungbanteng, Central Java",1,-7.15,110.1403
+"Kroya, Central Java",1,-7.15,110.1403
+"Kampar Kiri, Riau",1,,
+"West Obi, North Maluku",1,-3.0,128.0
+"Prambanan, Central Java",1,-7.15,110.1403
+"Kemuning, South Sumatra",1,-0.5,104.0
+"Tapos, West Java",1,-6.9175,107.6191
+"Buahbatu, West Java",1,-6.9175,107.6191
+"Meranti Islands, Riau",1,,
+"Sukorejo, East Java",1,-7.5361,112.2384
+"Pati Regency, Central Java",1,-7.15,110.1403
+"Pringsurat, Central Java",1,-7.15,110.1403
+"Kembang Janggut, East Kalimantan",1,-1.0,115.0
+"Gayungan, East Java",1,-7.5361,112.2384
+"Makasar, Jakarta",1,-6.2088,106.8456
+"West Kisaran, North Sumatra",1,-0.5,104.0
+"Sukolilo, East Java",1,-7.5361,112.2384
+"Ciruas, Banten",1,-6.12,106.1503
+"Cidahu, West Java",1,-6.9175,107.6191
+"Pangandaran Regency, West Java",1,-6.9175,107.6191
+"Parung Panjang, West Java",1,-6.9175,107.6191
+"Blang Pidie, Aceh",1,-0.5,104.0
+"Kaliwungu, Central Java",1,-7.15,110.1403
+"Meulaboh, Aceh",1,-0.5,104.0
+"Gong Badak, Terengganu",1,5.3303,103.1408
+"Bukit Tambun, Penang",1,5.4141,100.3288
+"Kuala Krai, Kelantan",1,6.1236,102.2431
+"Desa Pandan, Kuala Lumpur",1,3.139,101.6869
+"Serian, Sarawak",1,1.55,110.3333
+"Kejayan, East Java",1,-7.5361,112.2384
+"Pasar Muara Bungo, Jambi",1,-0.5,104.0
+"Panongan, Banten",1,-6.12,106.1503
+"North Seribu Islands, Jakarta",1,-6.2088,106.8456
+"Pringapus, Central Java",1,-7.15,110.1403
+"Jekan Raya, Central Kalimantan",1,-1.0,115.0
+"Ampenan, West Nusa Tenggara",1,-8.5,117.0
+"Asem Rowo, East Java",1,-7.5361,112.2384
+"Klari, West Java",1,-6.9175,107.6191
+"East Flores, East Nusa Tenggara",1,-8.5,117.0
+"Bulungan, North Kalimantan",1,-1.0,115.0
+"Lubuk Pakam, North Sumatra",1,-0.5,104.0
+"Ambarawa, Central Java",1,-7.15,110.1403
+"Sandaran, East Kalimantan",1,-1.0,115.0
+"Gabus, Central Java",1,-7.15,110.1403
+"Betung, South Sumatra",1,-0.5,104.0
+"Kebon Sari, East Java",1,-7.5361,112.2384
+"Pangandaran, West Java",1,-6.9175,107.6191
+"Kupang Regency, East Nusa Tenggara",1,-8.5,117.0
+"Singkep, Riau Islands",1,1.0,104.0
+"Bondowoso, East Java",1,-7.5361,112.2384
+"Larantuka, East Nusa Tenggara",1,-8.5,117.0
+"Bojongmanik, Banten",1,-6.12,106.1503
+"Sukamara, Central Kalimantan",1,-1.0,115.0
+"Bintuni, West Papua",1,-4.0,137.0
+"Sangkulirang, East Kalimantan",1,-1.0,115.0
+"Port Dickson District, Negeri Sembilan",1,2.725,101.9375
+"Bandar Indahpura, Johor",1,1.4927,103.7414
+"Trong, Perak",1,4.5975,101.0901
+"Paal Dua, North Sulawesi",1,-3.0,120.0
+"Kedaton, Lampung",1,-0.5,104.0
+"Bandar Seri Putra, Selangor",1,3.075,101.525
+"Kuala Terengganu District, Terengganu",1,5.3303,103.1408
+"Purbalingga Regency, Central Java",1,-7.15,110.1403
+"Sambikerep, East Java",1,-7.5361,112.2384
+"Yapen Islands, Papua",1,-4.0,137.0
+"Bukit Tunku, Kuala Lumpur",1,3.139,101.6869
+"South Lubuk Linggau I, South Sumatra",1,-0.5,104.0
+"Tanjong Rhu, Central Region",1,1.3521,103.8198
+"Abiansemal, Bali",1,-8.3405,115.092
+"Medan Tuanku, Kuala Lumpur",1,3.139,101.6869
+"Temerloh District, Pahang",1,3.8,103.0833
+"Kadok, Kelantan",1,6.1236,102.2431
+"Batu Kawa, Sarawak",1,1.55,110.3333
+"South Pesisir, West Sumatra",1,-0.5,104.0
+"Batang Padang District, Perak",1,4.5975,101.0901
+"Lakarsantri, East Java",1,-7.5361,112.2384
+"Bandung Kidul, West Java",1,-6.9175,107.6191
+"Kauman, East Java",1,-7.5361,112.2384
+"Rajeg, Banten",1,-6.12,106.1503
+"Margaasih, West Java",1,-6.9175,107.6191
+"Maba, North Maluku",1,-3.0,128.0
+"Holland Road, Central Region",1,1.3521,103.8198
+"Sengkang Town Centre, North-East Region",1,1.3521,103.8198
+"Kampong Glam, Central Region",1,1.3521,103.8198
+"Western Islands, West Region",1,1.3521,103.8198
+"Hillview, West Region",1,1.3521,103.8198
+"Changi Bay, East Region",1,1.3521,103.8198
+"Yishun East, North Region",1,1.3521,103.8198
+"Sintang Regency, West Kalimantan",1,-1.0,115.0
+"Pakem, Yogyakarta Special Region",1,-8.5,117.0
+"Bandung, East Java",1,-7.5361,112.2384
+"Tengaran, Central Java",1,-7.15,110.1403
+"Samosir, North Sumatra",1,-0.5,104.0
+"Jatibarang, West Java",1,-6.9175,107.6191
+"Ciater, West Java",1,-6.9175,107.6191
+"Mataram District, West Nusa Tenggara",1,-8.5,117.0
+"Dairi, North Sumatra",1,-0.5,104.0
+"Temanggung Regency, Central Java",1,-7.15,110.1403
+"Tarumajaya, West Java",1,-6.9175,107.6191
+"Klampis, East Java",1,-7.5361,112.2384
+"South Bogor, West Java",1,-6.9175,107.6191
+"East Prabumulih, South Sumatra",1,-0.5,104.0
+"Banggai, Central Sulawesi",1,-3.0,120.0
+"Danga Bay, Johor",1,1.4927,103.7414

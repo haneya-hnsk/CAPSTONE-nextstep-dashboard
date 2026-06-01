@@ -8,3 +8,5 @@ numpy
 folium
 streamlit-folium
 scikit-learn==1.6.1
+psycopg2-binary
+sqlalchemy
